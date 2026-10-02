@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans  xmlns="http://www.springframework.org/schema/beans"
+		xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		xmlns:security="http://www.springframework.org/schema/security"
+		xsi:schemaLocation="http://www.springframework.org/schema/security http://www.springframework.org/schema/security/spring-security.xsd 
+					        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+
+<bean id="passwordEncoder" class="org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder"/>
+
+<!-- In Memory user repository and authentication -->
+
+<!-- <security:user-service id="userService">
+	<security:user name="deva" password="$2a$10$AqjUbbZ.Es1zBcTP0XZ6QOSKvJYdT14EDVRQqeQfLxa26KBgKIani" authorities="ROLE_EMPLOYEE"/>
+	<security:user name="newuser" password="$2a$10$uf58LV/Xre9QIlEggxNazOFvIOLTdQhxgQx1pmhlGtYIky.bshhBm" authorities="ROLE_EMPLOYEE,ROLE_MANAGER"/>
+	<security:user name="admin" password="$2a$10$x3qGe4xdJusnek7txv2fiubAJkNub2vqMqRpgiAw..h2M4P2jOz1W" authorities="ROLE_EMPLOYEE,ROLE_MANAGER,ROLE_ADMIN"/>
+</security:user-service>
+
+<security:authentication-manager>
+	<security:authentication-provider user-service-ref="userService"/>
+</security:authentication-manager> -->
+
+	<!-- JDBC user repository and authentication -->
+		
+	
+		 <security:jdbc-user-service id="jdbcUserService"
+									data-source-ref="dataSource" 
+									users-by-username-query="select username, password, enabled from new_users where username=?" 
+									authorities-by-username-query="SELECT new_user_roles.username, new_roles.role FROM new_user_roles INNER JOIN new_roles ON 
+									new_roles.roleid=new_user_roles .role_id where new_user_roles.username =?"/>		
+
+		<security:authentication-manager>
+			<security:authentication-provider user-service-ref="jdbcUserService"/>
+		</security:authentication-manager>
+		
+
+		<!-- authorization configurations -->
+		
+		<security:http pattern="/favicon.ico" security="none"/>
+		<security:http pattern="/static/*" security="none"/>
+		
+  <security:http auto-config="true">
+	<security:intercept-url pattern="/" access="hasRole('EMPLOYEE')"/>
+	<security:intercept-url pattern="/employeeForm" access="hasRole('EMPLOYEE')"/>
+	<security:intercept-url pattern="/addEmployee" access="hasAnyRole('EMPLOYEE')"/>
+	<security:intercept-url pattern="/empSuccess" access="hasRole('EMPLOYEE')"/>
+	<security:intercept-url pattern="/searchEmpForm" access="hasRole('MANAGER')"/>
+	<security:intercept-url pattern="/getEmployee" access="hasRole('MANAGER')"/>
+	<security:intercept-url pattern="/listEmps" access="hasRole('ADMIN')"/> 
+	
+	<!-- 
+	 <security:http auto-config="true">
+	<security:intercept-url pattern="/" access="hasAnyRole('EMPLOYEE','ADMIN','MANAGER')"/>
+	<security:intercept-url pattern="/employeeForm" access="hasAnyRole('EMPLOYEE','ADMIN')"/>
+	<security:intercept-url pattern="/addEmployee" access="hasAnyRole('EMPLOYEE','ADMIN')"/>
+	<security:intercept-url pattern="/empSuccess" access="hasAnyRole('EMPLOYEE','ADMIN')"/>
+	<security:intercept-url pattern="/searchEmpForm" access="hasAnyRole('MANAGER','ADMIN')"/>
+	<security:intercept-url pattern="/getEmployee" access="hasAnyRole('MANAGER','ADMIN')"/>
+	<security:intercept-url pattern="/listEmps" access="hasRole('ADMIN')"/>
+	<security:intercept-url pattern="/deleteemp/*" access="hasRole('ADMIN')"/>-->
+	
+	 <security:access-denied-handler error-page="/accessDenied"/>
+			
+			<security:form-login login-page="/login"
+								 username-parameter="username"	
+								 password-parameter="password"
+								 authentication-failure-url="/login?error=true"
+								 default-target-url="/" /> 
+</security:http>
+
+
+
+</beans>
