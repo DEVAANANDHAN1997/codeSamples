@@ -1,0 +1,1042 @@
+2021-02-16 17:43:59 INFO  Main:24 - Customer [custname=XYZ, contactno=987654321]
+  2021-02-16 17:44:33 INFO  Main:24 - Customer [custname=XYZ, contactno=987654321]
+  2021-02-16 17:44:33 INFO  Main:25 - Customer [custname=con-arg-name, contactno=con-arg-no]
+  2021-02-16 17:47:18 DEBUG ClassPathXmlApplicationContext:634 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@4534b60d
+  2021-02-16 17:47:18 DEBUG XmlBeanDefinitionReader:393 - Loaded 3 bean definitions from class path resource [ApplicationContext.xml]
+  2021-02-16 17:47:18 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'customer'
+  2021-02-16 17:47:18 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'customer1'
+  2021-02-16 17:51:46 DEBUG ClassPathXmlApplicationContext:634 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@4534b60d
+  2021-02-16 17:51:47 DEBUG XmlBeanDefinitionReader:393 - Loaded 3 bean definitions from class path resource [ApplicationContext.xml]
+  2021-02-16 17:51:47 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'customer'
+  2021-02-16 17:51:48 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'customer1'
+  2021-02-16 17:56:27 DEBUG ClassPathXmlApplicationContext:634 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@4534b60d
+  2021-02-16 17:56:27 DEBUG XmlBeanDefinitionReader:393 - Loaded 3 bean definitions from class path resource [ApplicationContext.xml]
+  2021-02-16 17:56:27 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'customer'
+  2021-02-16 17:56:27 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'customer1'
+  2021-02-16 17:57:30 DEBUG ClassPathXmlApplicationContext:634 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@4534b60d
+  2021-02-16 17:57:31 DEBUG XmlBeanDefinitionReader:393 - Loaded 3 bean definitions from class path resource [ApplicationContext.xml]
+  2021-02-16 17:57:31 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'customer'
+  2021-02-16 17:57:31 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'address'
+  2021-02-16 17:57:31 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'customer1'
+  2021-02-16 17:58:16 DEBUG ClassPathXmlApplicationContext:634 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@4534b60d
+  2021-02-16 17:58:17 DEBUG XmlBeanDefinitionReader:393 - Loaded 3 bean definitions from class path resource [ApplicationContext.xml]
+  2021-02-16 17:58:17 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'customer'
+  2021-02-16 17:58:17 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'customer1'
+  2021-02-16 18:03:54 DEBUG ClassPathXmlApplicationContext:634 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@4534b60d
+  2021-02-16 18:03:54 DEBUG XmlBeanDefinitionReader:393 - Loaded 3 bean definitions from class path resource [ApplicationContext.xml]
+  2021-02-16 18:03:54 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'customer'
+  2021-02-16 18:03:55 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'customer1'
+  2021-02-16 18:05:46 DEBUG ClassPathXmlApplicationContext:634 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@4534b60d
+  2021-02-16 18:05:47 DEBUG XmlBeanDefinitionReader:393 - Loaded 3 bean definitions from class path resource [ApplicationContext.xml]
+  2021-02-16 18:05:47 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'customer'
+  2021-02-16 18:05:47 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'customer1'
+  2021-02-16 18:07:13 DEBUG ClassPathXmlApplicationContext:634 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@4534b60d
+  2021-02-16 18:07:14 DEBUG XmlBeanDefinitionReader:393 - Loaded 3 bean definitions from class path resource [ApplicationContext.xml]
+  2021-02-16 18:07:14 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'customer'
+  2021-02-16 18:07:14 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'customer1'
+  2021-02-16 18:07:44 DEBUG ClassPathXmlApplicationContext:634 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@4534b60d
+  2021-02-16 18:07:45 DEBUG XmlBeanDefinitionReader:393 - Loaded 3 bean definitions from class path resource [ApplicationContext.xml]
+  2021-02-16 18:07:45 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'customer'
+  2021-02-16 18:07:45 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'customer1'
+  2021-02-16 18:07:55 DEBUG ClassPathXmlApplicationContext:634 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@4534b60d
+  2021-02-16 18:07:56 DEBUG XmlBeanDefinitionReader:393 - Loaded 3 bean definitions from class path resource [ApplicationContext.xml]
+  2021-02-16 18:07:56 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'customer'
+  2021-02-16 18:07:56 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'customer1'
+  2021-02-16 18:10:01 DEBUG ClassPathXmlApplicationContext:634 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@4534b60d
+  2021-02-16 18:10:02 DEBUG XmlBeanDefinitionReader:393 - Loaded 3 bean definitions from class path resource [ApplicationContext.xml]
+  2021-02-16 18:10:02 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'customer'
+  2021-02-16 18:10:02 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'customer1'
+  2021-02-16 18:10:33 DEBUG ClassPathXmlApplicationContext:634 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@4534b60d
+  2021-02-16 18:10:34 DEBUG XmlBeanDefinitionReader:393 - Loaded 3 bean definitions from class path resource [ApplicationContext.xml]
+  2021-02-16 18:10:34 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'customer'
+  2021-02-16 18:10:34 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'customer1'
+  2021-02-16 18:20:11 DEBUG ClassPathXmlApplicationContext:634 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@4534b60d
+  2021-02-16 18:20:11 DEBUG XmlBeanDefinitionReader:393 - Loaded 3 bean definitions from class path resource [ApplicationContext.xml]
+  2021-02-16 18:20:11 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'customer'
+  2021-02-16 18:20:12 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'customer1'
+  2021-02-17 13:11:08 DEBUG ClassPathXmlApplicationContext:634 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@497470ed
+  2021-02-17 13:11:09 DEBUG XmlBeanDefinitionReader:393 - Loaded 4 bean definitions from class path resource [jdbc.xml]
+  2021-02-17 13:11:09 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'org.springframework.context.support.PropertySourcesPlaceholderConfigurer#0'
+  2021-02-17 13:11:09 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.driverClassName' in PropertySource 'localProperties' with value of type String
+  2021-02-17 13:11:09 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.url' in PropertySource 'localProperties' with value of type String
+  2021-02-17 13:11:09 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.username' in PropertySource 'localProperties' with value of type String
+  2021-02-17 13:11:09 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.password' in PropertySource 'localProperties' with value of type String
+  2021-02-17 13:11:09 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'dataSource'
+  2021-02-17 13:11:09 DEBUG DriverManagerDataSource:134 - Loaded JDBC driver: org.postgresql.Driver
+  2021-02-17 13:11:09 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'jdbcTemplate'
+  2021-02-17 13:11:10 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'employeeDAO'
+  2021-02-17 13:11:10 DEBUG JdbcTemplate:958 - Executing prepared SQL update
+  2021-02-17 13:11:10 DEBUG JdbcTemplate:643 - Executing prepared SQL statement [insert into employees values(?,?,?,?)]
+  2021-02-17 13:11:10 DEBUG DataSourceUtils:115 - Fetching JDBC Connection from DataSource
+  2021-02-17 13:11:10 DEBUG DriverManagerDataSource:144 - Creating new JDBC DriverManager Connection to [jdbc:postgresql://localhost:5432/postgres]
+  2021-02-17 13:12:16 DEBUG ClassPathXmlApplicationContext:634 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@497470ed
+  2021-02-17 13:12:17 DEBUG XmlBeanDefinitionReader:393 - Loaded 4 bean definitions from class path resource [jdbc.xml]
+  2021-02-17 13:12:17 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'org.springframework.context.support.PropertySourcesPlaceholderConfigurer#0'
+  2021-02-17 13:12:17 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.driverClassName' in PropertySource 'localProperties' with value of type String
+  2021-02-17 13:12:17 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.url' in PropertySource 'localProperties' with value of type String
+  2021-02-17 13:12:17 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.username' in PropertySource 'localProperties' with value of type String
+  2021-02-17 13:12:17 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.password' in PropertySource 'localProperties' with value of type String
+  2021-02-17 13:12:17 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'dataSource'
+  2021-02-17 13:12:17 DEBUG DriverManagerDataSource:134 - Loaded JDBC driver: org.postgresql.Driver
+  2021-02-17 13:12:17 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'jdbcTemplate'
+  2021-02-17 13:12:17 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'employeeDAO'
+  2021-02-17 13:12:17 DEBUG JdbcTemplate:958 - Executing prepared SQL update
+  2021-02-17 13:12:17 DEBUG JdbcTemplate:643 - Executing prepared SQL statement [insert into employees values(?,?,?,?)]
+  2021-02-17 13:12:17 DEBUG DataSourceUtils:115 - Fetching JDBC Connection from DataSource
+  2021-02-17 13:12:17 DEBUG DriverManagerDataSource:144 - Creating new JDBC DriverManager Connection to [jdbc:postgresql://localhost:5432/postgres]
+  2021-02-17 13:13:46 DEBUG ClassPathXmlApplicationContext:634 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@497470ed
+  2021-02-17 13:13:47 DEBUG XmlBeanDefinitionReader:393 - Loaded 4 bean definitions from class path resource [jdbc.xml]
+  2021-02-17 13:13:47 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'org.springframework.context.support.PropertySourcesPlaceholderConfigurer#0'
+  2021-02-17 13:13:47 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.driverClassName' in PropertySource 'localProperties' with value of type String
+  2021-02-17 13:13:47 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.url' in PropertySource 'localProperties' with value of type String
+  2021-02-17 13:13:47 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.username' in PropertySource 'localProperties' with value of type String
+  2021-02-17 13:13:47 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.password' in PropertySource 'localProperties' with value of type String
+  2021-02-17 13:13:47 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'dataSource'
+  2021-02-17 13:13:47 DEBUG DriverManagerDataSource:134 - Loaded JDBC driver: org.postgresql.Driver
+  2021-02-17 13:13:47 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'jdbcTemplate'
+  2021-02-17 13:13:48 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'employeeDAO'
+  2021-02-17 13:13:48 DEBUG JdbcTemplate:711 - Executing prepared SQL query
+  2021-02-17 13:13:48 DEBUG JdbcTemplate:643 - Executing prepared SQL statement [select empno, empname, job, salary from employees where empno = ?]
+  2021-02-17 13:13:48 DEBUG DataSourceUtils:115 - Fetching JDBC Connection from DataSource
+  2021-02-17 13:13:48 DEBUG DriverManagerDataSource:144 - Creating new JDBC DriverManager Connection to [jdbc:postgresql://localhost:5432/postgres]
+  2021-02-17 13:13:48 DEBUG XmlBeanDefinitionReader:393 - Loaded 11 bean definitions from class path resource [org/springframework/jdbc/support/sql-error-codes.xml]
+  2021-02-17 13:13:48 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'DB2'
+  2021-02-17 13:13:48 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'Derby'
+  2021-02-17 13:13:48 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'H2'
+  2021-02-17 13:13:48 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'HDB'
+  2021-02-17 13:13:48 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'HSQL'
+  2021-02-17 13:13:48 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'Informix'
+  2021-02-17 13:13:48 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'MS-SQL'
+  2021-02-17 13:13:48 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'MySQL'
+  2021-02-17 13:13:48 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'Oracle'
+  2021-02-17 13:13:48 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'PostgreSQL'
+  2021-02-17 13:13:48 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'Sybase'
+  2021-02-17 13:13:48 DEBUG SQLErrorCodesFactory:223 - Looking up default SQLErrorCodes for DataSource [org.springframework.jdbc.datasource.DriverManagerDataSource@6b19b79]
+  2021-02-17 13:13:48 DEBUG DataSourceUtils:115 - Fetching JDBC Connection from DataSource
+  2021-02-17 13:13:48 DEBUG DriverManagerDataSource:144 - Creating new JDBC DriverManager Connection to [jdbc:postgresql://localhost:5432/postgres]
+  2021-02-17 13:13:48 DEBUG SQLErrorCodesFactory:181 - SQL error codes for 'PostgreSQL' found
+  2021-02-17 13:13:48 DEBUG SQLErrorCodesFactory:267 - Caching SQL error codes for DataSource [org.springframework.jdbc.datasource.DriverManagerDataSource@6b19b79]: database product name is 'PostgreSQL'
+  2021-02-17 13:13:48 DEBUG SQLErrorCodeSQLExceptionTranslator:289 - Unable to translate SQLException with SQL state '42703', error code '0, will now try the fallback translator
+  2021-02-17 13:13:48 DEBUG SQLStateSQLExceptionTranslator:98 - Extracted SQL state class '42' from value '42703'
+  2021-02-17 13:14:58 DEBUG ClassPathXmlApplicationContext:634 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@497470ed
+  2021-02-17 13:14:58 DEBUG XmlBeanDefinitionReader:393 - Loaded 4 bean definitions from class path resource [jdbc.xml]
+  2021-02-17 13:14:58 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'org.springframework.context.support.PropertySourcesPlaceholderConfigurer#0'
+  2021-02-17 13:14:59 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.driverClassName' in PropertySource 'localProperties' with value of type String
+  2021-02-17 13:14:59 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.url' in PropertySource 'localProperties' with value of type String
+  2021-02-17 13:14:59 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.username' in PropertySource 'localProperties' with value of type String
+  2021-02-17 13:14:59 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.password' in PropertySource 'localProperties' with value of type String
+  2021-02-17 13:14:59 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'dataSource'
+  2021-02-17 13:14:59 DEBUG DriverManagerDataSource:134 - Loaded JDBC driver: org.postgresql.Driver
+  2021-02-17 13:14:59 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'jdbcTemplate'
+  2021-02-17 13:14:59 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'employeeDAO'
+  2021-02-17 13:14:59 DEBUG JdbcTemplate:711 - Executing prepared SQL query
+  2021-02-17 13:14:59 DEBUG JdbcTemplate:643 - Executing prepared SQL statement [select empno, ename, job, salary from employees where empno = ?]
+  2021-02-17 13:14:59 DEBUG DataSourceUtils:115 - Fetching JDBC Connection from DataSource
+  2021-02-17 13:14:59 DEBUG DriverManagerDataSource:144 - Creating new JDBC DriverManager Connection to [jdbc:postgresql://localhost:5432/postgres]
+  2021-02-17 13:15:23 DEBUG ClassPathXmlApplicationContext:634 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@497470ed
+  2021-02-17 13:15:23 DEBUG XmlBeanDefinitionReader:393 - Loaded 4 bean definitions from class path resource [jdbc.xml]
+  2021-02-17 13:15:23 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'org.springframework.context.support.PropertySourcesPlaceholderConfigurer#0'
+  2021-02-17 13:15:24 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.driverClassName' in PropertySource 'localProperties' with value of type String
+  2021-02-17 13:15:24 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.url' in PropertySource 'localProperties' with value of type String
+  2021-02-17 13:15:24 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.username' in PropertySource 'localProperties' with value of type String
+  2021-02-17 13:15:24 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.password' in PropertySource 'localProperties' with value of type String
+  2021-02-17 13:15:24 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'dataSource'
+  2021-02-17 13:15:24 DEBUG DriverManagerDataSource:134 - Loaded JDBC driver: org.postgresql.Driver
+  2021-02-17 13:15:24 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'jdbcTemplate'
+  2021-02-17 13:15:24 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'employeeDAO'
+  2021-02-17 13:15:24 DEBUG JdbcTemplate:440 - Executing SQL query [select empno,empname,job,salary from employees]
+  2021-02-17 13:15:24 DEBUG DataSourceUtils:115 - Fetching JDBC Connection from DataSource
+  2021-02-17 13:15:24 DEBUG DriverManagerDataSource:144 - Creating new JDBC DriverManager Connection to [jdbc:postgresql://localhost:5432/postgres]
+  2021-02-17 13:15:24 DEBUG XmlBeanDefinitionReader:393 - Loaded 11 bean definitions from class path resource [org/springframework/jdbc/support/sql-error-codes.xml]
+  2021-02-17 13:15:24 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'DB2'
+  2021-02-17 13:15:24 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'Derby'
+  2021-02-17 13:15:24 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'H2'
+  2021-02-17 13:15:24 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'HDB'
+  2021-02-17 13:15:24 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'HSQL'
+  2021-02-17 13:15:24 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'Informix'
+  2021-02-17 13:15:24 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'MS-SQL'
+  2021-02-17 13:15:24 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'MySQL'
+  2021-02-17 13:15:24 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'Oracle'
+  2021-02-17 13:15:24 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'PostgreSQL'
+  2021-02-17 13:15:24 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'Sybase'
+  2021-02-17 13:15:24 DEBUG SQLErrorCodesFactory:223 - Looking up default SQLErrorCodes for DataSource [org.springframework.jdbc.datasource.DriverManagerDataSource@78dd667e]
+  2021-02-17 13:15:24 DEBUG DataSourceUtils:115 - Fetching JDBC Connection from DataSource
+  2021-02-17 13:15:24 DEBUG DriverManagerDataSource:144 - Creating new JDBC DriverManager Connection to [jdbc:postgresql://localhost:5432/postgres]
+  2021-02-17 13:15:24 DEBUG SQLErrorCodesFactory:181 - SQL error codes for 'PostgreSQL' found
+  2021-02-17 13:15:24 DEBUG SQLErrorCodesFactory:267 - Caching SQL error codes for DataSource [org.springframework.jdbc.datasource.DriverManagerDataSource@78dd667e]: database product name is 'PostgreSQL'
+  2021-02-17 13:15:24 DEBUG SQLErrorCodeSQLExceptionTranslator:289 - Unable to translate SQLException with SQL state '42703', error code '0, will now try the fallback translator
+  2021-02-17 13:15:24 DEBUG SQLStateSQLExceptionTranslator:98 - Extracted SQL state class '42' from value '42703'
+  2021-02-17 13:15:43 DEBUG ClassPathXmlApplicationContext:634 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@497470ed
+  2021-02-17 13:15:43 DEBUG XmlBeanDefinitionReader:393 - Loaded 4 bean definitions from class path resource [jdbc.xml]
+  2021-02-17 13:15:44 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'org.springframework.context.support.PropertySourcesPlaceholderConfigurer#0'
+  2021-02-17 13:15:44 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.driverClassName' in PropertySource 'localProperties' with value of type String
+  2021-02-17 13:15:44 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.url' in PropertySource 'localProperties' with value of type String
+  2021-02-17 13:15:44 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.username' in PropertySource 'localProperties' with value of type String
+  2021-02-17 13:15:44 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.password' in PropertySource 'localProperties' with value of type String
+  2021-02-17 13:15:44 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'dataSource'
+  2021-02-17 13:15:44 DEBUG DriverManagerDataSource:134 - Loaded JDBC driver: org.postgresql.Driver
+  2021-02-17 13:15:44 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'jdbcTemplate'
+  2021-02-17 13:15:44 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'employeeDAO'
+  2021-02-17 13:15:44 DEBUG JdbcTemplate:440 - Executing SQL query [select empno,ename,job,salary from employees]
+  2021-02-17 13:15:44 DEBUG DataSourceUtils:115 - Fetching JDBC Connection from DataSource
+  2021-02-17 13:15:44 DEBUG DriverManagerDataSource:144 - Creating new JDBC DriverManager Connection to [jdbc:postgresql://localhost:5432/postgres]
+  2021-02-17 13:17:29 DEBUG ClassPathXmlApplicationContext:634 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@497470ed
+  2021-02-17 13:17:30 DEBUG XmlBeanDefinitionReader:393 - Loaded 4 bean definitions from class path resource [jdbc.xml]
+  2021-02-17 13:17:30 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'org.springframework.context.support.PropertySourcesPlaceholderConfigurer#0'
+  2021-02-17 13:17:30 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.driverClassName' in PropertySource 'localProperties' with value of type String
+  2021-02-17 13:17:30 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.url' in PropertySource 'localProperties' with value of type String
+  2021-02-17 13:17:30 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.username' in PropertySource 'localProperties' with value of type String
+  2021-02-17 13:17:30 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.password' in PropertySource 'localProperties' with value of type String
+  2021-02-17 13:17:30 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'dataSource'
+  2021-02-17 13:17:30 DEBUG DriverManagerDataSource:134 - Loaded JDBC driver: org.postgresql.Driver
+  2021-02-17 13:17:30 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'jdbcTemplate'
+  2021-02-17 13:17:30 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'employeeDAO'
+  2021-02-17 13:17:31 DEBUG JdbcTemplate:440 - Executing SQL query [select empno,ename,job,salary from employees]
+  2021-02-17 13:17:31 DEBUG DataSourceUtils:115 - Fetching JDBC Connection from DataSource
+  2021-02-17 13:17:31 DEBUG DriverManagerDataSource:144 - Creating new JDBC DriverManager Connection to [jdbc:postgresql://localhost:5432/postgres]
+  2021-02-17 13:18:53 DEBUG ClassPathXmlApplicationContext:634 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@497470ed
+  2021-02-17 13:18:54 DEBUG XmlBeanDefinitionReader:393 - Loaded 4 bean definitions from class path resource [jdbc.xml]
+  2021-02-17 13:18:54 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'org.springframework.context.support.PropertySourcesPlaceholderConfigurer#0'
+  2021-02-17 13:18:54 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.driverClassName' in PropertySource 'localProperties' with value of type String
+  2021-02-17 13:18:54 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.url' in PropertySource 'localProperties' with value of type String
+  2021-02-17 13:18:54 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.username' in PropertySource 'localProperties' with value of type String
+  2021-02-17 13:18:54 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.password' in PropertySource 'localProperties' with value of type String
+  2021-02-17 13:18:54 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'dataSource'
+  2021-02-17 13:18:54 DEBUG DriverManagerDataSource:134 - Loaded JDBC driver: org.postgresql.Driver
+  2021-02-17 13:18:54 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'jdbcTemplate'
+  2021-02-17 13:18:54 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'employeeDAO'
+  2021-02-17 13:18:54 DEBUG JdbcTemplate:958 - Executing prepared SQL update
+  2021-02-17 13:18:54 DEBUG JdbcTemplate:643 - Executing prepared SQL statement [delete from employee where empno?]
+  2021-02-17 13:18:54 DEBUG DataSourceUtils:115 - Fetching JDBC Connection from DataSource
+  2021-02-17 13:18:54 DEBUG DriverManagerDataSource:144 - Creating new JDBC DriverManager Connection to [jdbc:postgresql://localhost:5432/postgres]
+  2021-02-17 13:18:55 DEBUG XmlBeanDefinitionReader:393 - Loaded 11 bean definitions from class path resource [org/springframework/jdbc/support/sql-error-codes.xml]
+  2021-02-17 13:18:55 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'DB2'
+  2021-02-17 13:18:55 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'Derby'
+  2021-02-17 13:18:55 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'H2'
+  2021-02-17 13:18:55 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'HDB'
+  2021-02-17 13:18:55 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'HSQL'
+  2021-02-17 13:18:55 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'Informix'
+  2021-02-17 13:18:55 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'MS-SQL'
+  2021-02-17 13:18:55 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'MySQL'
+  2021-02-17 13:18:55 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'Oracle'
+  2021-02-17 13:18:55 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'PostgreSQL'
+  2021-02-17 13:18:55 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'Sybase'
+  2021-02-17 13:18:55 DEBUG SQLErrorCodesFactory:223 - Looking up default SQLErrorCodes for DataSource [org.springframework.jdbc.datasource.DriverManagerDataSource@11a9e7c8]
+  2021-02-17 13:18:55 DEBUG DataSourceUtils:115 - Fetching JDBC Connection from DataSource
+  2021-02-17 13:18:55 DEBUG DriverManagerDataSource:144 - Creating new JDBC DriverManager Connection to [jdbc:postgresql://localhost:5432/postgres]
+  2021-02-17 13:18:55 DEBUG SQLErrorCodesFactory:181 - SQL error codes for 'PostgreSQL' found
+  2021-02-17 13:18:55 DEBUG SQLErrorCodesFactory:267 - Caching SQL error codes for DataSource [org.springframework.jdbc.datasource.DriverManagerDataSource@11a9e7c8]: database product name is 'PostgreSQL'
+  2021-02-17 13:18:55 DEBUG SQLErrorCodeSQLExceptionTranslator:289 - Unable to translate SQLException with SQL state '42703', error code '0, will now try the fallback translator
+  2021-02-17 13:18:55 DEBUG SQLStateSQLExceptionTranslator:98 - Extracted SQL state class '42' from value '42703'
+  2021-02-17 13:22:36 DEBUG ClassPathXmlApplicationContext:634 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@497470ed
+  2021-02-17 13:22:37 DEBUG XmlBeanDefinitionReader:393 - Loaded 4 bean definitions from class path resource [jdbc.xml]
+  2021-02-17 13:22:37 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'org.springframework.context.support.PropertySourcesPlaceholderConfigurer#0'
+  2021-02-17 13:22:37 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.driverClassName' in PropertySource 'localProperties' with value of type String
+  2021-02-17 13:22:37 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.url' in PropertySource 'localProperties' with value of type String
+  2021-02-17 13:22:37 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.username' in PropertySource 'localProperties' with value of type String
+  2021-02-17 13:22:37 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.password' in PropertySource 'localProperties' with value of type String
+  2021-02-17 13:22:37 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'dataSource'
+  2021-02-17 13:22:37 DEBUG DriverManagerDataSource:134 - Loaded JDBC driver: org.postgresql.Driver
+  2021-02-17 13:22:37 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'jdbcTemplate'
+  2021-02-17 13:22:37 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'employeeDAO'
+  2021-02-17 13:22:37 DEBUG JdbcTemplate:958 - Executing prepared SQL update
+  2021-02-17 13:22:37 DEBUG JdbcTemplate:643 - Executing prepared SQL statement [delete from employees where empno?]
+  2021-02-17 13:22:37 DEBUG DataSourceUtils:115 - Fetching JDBC Connection from DataSource
+  2021-02-17 13:22:37 DEBUG DriverManagerDataSource:144 - Creating new JDBC DriverManager Connection to [jdbc:postgresql://localhost:5432/postgres]
+  2021-02-17 13:22:38 DEBUG XmlBeanDefinitionReader:393 - Loaded 11 bean definitions from class path resource [org/springframework/jdbc/support/sql-error-codes.xml]
+  2021-02-17 13:22:38 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'DB2'
+  2021-02-17 13:22:38 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'Derby'
+  2021-02-17 13:22:38 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'H2'
+  2021-02-17 13:22:38 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'HDB'
+  2021-02-17 13:22:38 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'HSQL'
+  2021-02-17 13:22:38 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'Informix'
+  2021-02-17 13:22:38 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'MS-SQL'
+  2021-02-17 13:22:38 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'MySQL'
+  2021-02-17 13:22:38 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'Oracle'
+  2021-02-17 13:22:38 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'PostgreSQL'
+  2021-02-17 13:22:38 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'Sybase'
+  2021-02-17 13:22:38 DEBUG SQLErrorCodesFactory:223 - Looking up default SQLErrorCodes for DataSource [org.springframework.jdbc.datasource.DriverManagerDataSource@11a9e7c8]
+  2021-02-17 13:22:38 DEBUG DataSourceUtils:115 - Fetching JDBC Connection from DataSource
+  2021-02-17 13:22:38 DEBUG DriverManagerDataSource:144 - Creating new JDBC DriverManager Connection to [jdbc:postgresql://localhost:5432/postgres]
+  2021-02-17 13:22:38 DEBUG SQLErrorCodesFactory:181 - SQL error codes for 'PostgreSQL' found
+  2021-02-17 13:22:38 DEBUG SQLErrorCodesFactory:267 - Caching SQL error codes for DataSource [org.springframework.jdbc.datasource.DriverManagerDataSource@11a9e7c8]: database product name is 'PostgreSQL'
+  2021-02-17 13:22:38 DEBUG SQLErrorCodeSQLExceptionTranslator:289 - Unable to translate SQLException with SQL state '42703', error code '0, will now try the fallback translator
+  2021-02-17 13:22:38 DEBUG SQLStateSQLExceptionTranslator:98 - Extracted SQL state class '42' from value '42703'
+  2021-02-17 13:23:32 DEBUG ClassPathXmlApplicationContext:634 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@497470ed
+  2021-02-17 13:23:32 DEBUG XmlBeanDefinitionReader:393 - Loaded 4 bean definitions from class path resource [jdbc.xml]
+  2021-02-17 13:23:32 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'org.springframework.context.support.PropertySourcesPlaceholderConfigurer#0'
+  2021-02-17 13:23:32 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.driverClassName' in PropertySource 'localProperties' with value of type String
+  2021-02-17 13:23:32 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.url' in PropertySource 'localProperties' with value of type String
+  2021-02-17 13:23:32 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.username' in PropertySource 'localProperties' with value of type String
+  2021-02-17 13:23:32 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.password' in PropertySource 'localProperties' with value of type String
+  2021-02-17 13:23:33 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'dataSource'
+  2021-02-17 13:23:33 DEBUG DriverManagerDataSource:134 - Loaded JDBC driver: org.postgresql.Driver
+  2021-02-17 13:23:33 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'jdbcTemplate'
+  2021-02-17 13:23:33 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'employeeDAO'
+  2021-02-17 13:23:33 DEBUG JdbcTemplate:958 - Executing prepared SQL update
+  2021-02-17 13:23:33 DEBUG JdbcTemplate:643 - Executing prepared SQL statement [delete from employees where empno?]
+  2021-02-17 13:23:33 DEBUG DataSourceUtils:115 - Fetching JDBC Connection from DataSource
+  2021-02-17 13:23:33 DEBUG DriverManagerDataSource:144 - Creating new JDBC DriverManager Connection to [jdbc:postgresql://localhost:5432/postgres]
+  2021-02-17 13:23:33 DEBUG XmlBeanDefinitionReader:393 - Loaded 11 bean definitions from class path resource [org/springframework/jdbc/support/sql-error-codes.xml]
+  2021-02-17 13:23:33 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'DB2'
+  2021-02-17 13:23:33 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'Derby'
+  2021-02-17 13:23:33 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'H2'
+  2021-02-17 13:23:33 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'HDB'
+  2021-02-17 13:23:33 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'HSQL'
+  2021-02-17 13:23:33 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'Informix'
+  2021-02-17 13:23:33 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'MS-SQL'
+  2021-02-17 13:23:33 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'MySQL'
+  2021-02-17 13:23:33 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'Oracle'
+  2021-02-17 13:23:33 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'PostgreSQL'
+  2021-02-17 13:23:33 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'Sybase'
+  2021-02-17 13:23:33 DEBUG SQLErrorCodesFactory:223 - Looking up default SQLErrorCodes for DataSource [org.springframework.jdbc.datasource.DriverManagerDataSource@11a9e7c8]
+  2021-02-17 13:23:33 DEBUG DataSourceUtils:115 - Fetching JDBC Connection from DataSource
+  2021-02-17 13:23:33 DEBUG DriverManagerDataSource:144 - Creating new JDBC DriverManager Connection to [jdbc:postgresql://localhost:5432/postgres]
+  2021-02-17 13:23:33 DEBUG SQLErrorCodesFactory:181 - SQL error codes for 'PostgreSQL' found
+  2021-02-17 13:23:33 DEBUG SQLErrorCodesFactory:267 - Caching SQL error codes for DataSource [org.springframework.jdbc.datasource.DriverManagerDataSource@11a9e7c8]: database product name is 'PostgreSQL'
+  2021-02-17 13:23:33 DEBUG SQLErrorCodeSQLExceptionTranslator:289 - Unable to translate SQLException with SQL state '42703', error code '0, will now try the fallback translator
+  2021-02-17 13:23:33 DEBUG SQLStateSQLExceptionTranslator:98 - Extracted SQL state class '42' from value '42703'
+  2021-02-17 13:24:46 DEBUG ClassPathXmlApplicationContext:634 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@497470ed
+  2021-02-17 13:24:47 DEBUG XmlBeanDefinitionReader:393 - Loaded 4 bean definitions from class path resource [jdbc.xml]
+  2021-02-17 13:24:47 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'org.springframework.context.support.PropertySourcesPlaceholderConfigurer#0'
+  2021-02-17 13:24:47 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.driverClassName' in PropertySource 'localProperties' with value of type String
+  2021-02-17 13:24:47 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.url' in PropertySource 'localProperties' with value of type String
+  2021-02-17 13:24:47 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.username' in PropertySource 'localProperties' with value of type String
+  2021-02-17 13:24:47 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.password' in PropertySource 'localProperties' with value of type String
+  2021-02-17 13:24:47 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'dataSource'
+  2021-02-17 13:24:47 DEBUG DriverManagerDataSource:134 - Loaded JDBC driver: org.postgresql.Driver
+  2021-02-17 13:24:47 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'jdbcTemplate'
+  2021-02-17 13:24:47 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'employeeDAO'
+  2021-02-17 13:24:47 DEBUG JdbcTemplate:958 - Executing prepared SQL update
+  2021-02-17 13:24:47 DEBUG JdbcTemplate:643 - Executing prepared SQL statement [delete from employees where empno?]
+  2021-02-17 13:24:47 DEBUG DataSourceUtils:115 - Fetching JDBC Connection from DataSource
+  2021-02-17 13:24:47 DEBUG DriverManagerDataSource:144 - Creating new JDBC DriverManager Connection to [jdbc:postgresql://localhost:5432/postgres]
+  2021-02-17 13:24:48 DEBUG XmlBeanDefinitionReader:393 - Loaded 11 bean definitions from class path resource [org/springframework/jdbc/support/sql-error-codes.xml]
+  2021-02-17 13:24:48 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'DB2'
+  2021-02-17 13:24:48 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'Derby'
+  2021-02-17 13:24:48 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'H2'
+  2021-02-17 13:24:48 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'HDB'
+  2021-02-17 13:24:48 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'HSQL'
+  2021-02-17 13:24:48 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'Informix'
+  2021-02-17 13:24:48 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'MS-SQL'
+  2021-02-17 13:24:48 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'MySQL'
+  2021-02-17 13:24:48 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'Oracle'
+  2021-02-17 13:24:48 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'PostgreSQL'
+  2021-02-17 13:24:48 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'Sybase'
+  2021-02-17 13:24:48 DEBUG SQLErrorCodesFactory:223 - Looking up default SQLErrorCodes for DataSource [org.springframework.jdbc.datasource.DriverManagerDataSource@11a9e7c8]
+  2021-02-17 13:24:48 DEBUG DataSourceUtils:115 - Fetching JDBC Connection from DataSource
+  2021-02-17 13:24:48 DEBUG DriverManagerDataSource:144 - Creating new JDBC DriverManager Connection to [jdbc:postgresql://localhost:5432/postgres]
+  2021-02-17 13:24:48 DEBUG SQLErrorCodesFactory:181 - SQL error codes for 'PostgreSQL' found
+  2021-02-17 13:24:48 DEBUG SQLErrorCodesFactory:267 - Caching SQL error codes for DataSource [org.springframework.jdbc.datasource.DriverManagerDataSource@11a9e7c8]: database product name is 'PostgreSQL'
+  2021-02-17 13:24:48 DEBUG SQLErrorCodeSQLExceptionTranslator:289 - Unable to translate SQLException with SQL state '42703', error code '0, will now try the fallback translator
+  2021-02-17 13:24:48 DEBUG SQLStateSQLExceptionTranslator:98 - Extracted SQL state class '42' from value '42703'
+  2021-02-17 13:25:45 DEBUG ClassPathXmlApplicationContext:634 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@497470ed
+  2021-02-17 13:25:46 DEBUG XmlBeanDefinitionReader:393 - Loaded 4 bean definitions from class path resource [jdbc.xml]
+  2021-02-17 13:25:46 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'org.springframework.context.support.PropertySourcesPlaceholderConfigurer#0'
+  2021-02-17 13:25:46 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.driverClassName' in PropertySource 'localProperties' with value of type String
+  2021-02-17 13:25:46 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.url' in PropertySource 'localProperties' with value of type String
+  2021-02-17 13:25:46 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.username' in PropertySource 'localProperties' with value of type String
+  2021-02-17 13:25:46 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.password' in PropertySource 'localProperties' with value of type String
+  2021-02-17 13:25:46 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'dataSource'
+  2021-02-17 13:25:46 DEBUG DriverManagerDataSource:134 - Loaded JDBC driver: org.postgresql.Driver
+  2021-02-17 13:25:46 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'jdbcTemplate'
+  2021-02-17 13:25:46 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'employeeDAO'
+  2021-02-17 13:25:46 DEBUG JdbcTemplate:958 - Executing prepared SQL update
+  2021-02-17 13:25:46 DEBUG JdbcTemplate:643 - Executing prepared SQL statement [delete from employees where empno=?]
+  2021-02-17 13:25:46 DEBUG DataSourceUtils:115 - Fetching JDBC Connection from DataSource
+  2021-02-17 13:25:46 DEBUG DriverManagerDataSource:144 - Creating new JDBC DriverManager Connection to [jdbc:postgresql://localhost:5432/postgres]
+  2021-02-17 13:25:47 DEBUG JdbcTemplate:440 - Executing SQL query [select empno,ename,job,salary from employees]
+  2021-02-17 13:25:47 DEBUG DataSourceUtils:115 - Fetching JDBC Connection from DataSource
+  2021-02-17 13:25:47 DEBUG DriverManagerDataSource:144 - Creating new JDBC DriverManager Connection to [jdbc:postgresql://localhost:5432/postgres]
+  2021-02-17 15:04:45 DEBUG ClassPathXmlApplicationContext:634 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@497470ed
+  2021-02-17 15:04:45 DEBUG XmlBeanDefinitionReader:393 - Loaded 4 bean definitions from class path resource [jdbc.xml]
+  2021-02-17 15:04:45 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'org.springframework.context.support.PropertySourcesPlaceholderConfigurer#0'
+  2021-02-17 15:04:46 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.driverClassName' in PropertySource 'localProperties' with value of type String
+  2021-02-17 15:04:46 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.url' in PropertySource 'localProperties' with value of type String
+  2021-02-17 15:04:46 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.username' in PropertySource 'localProperties' with value of type String
+  2021-02-17 15:04:46 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.password' in PropertySource 'localProperties' with value of type String
+  2021-02-17 15:04:46 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'dataSource'
+  2021-02-17 15:04:46 DEBUG DriverManagerDataSource:134 - Loaded JDBC driver: org.postgresql.Driver
+  2021-02-17 15:04:46 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'jdbcTemplate'
+  2021-02-17 15:04:46 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'employeeDAO'
+  2021-02-17 15:04:46 DEBUG JdbcTemplate:958 - Executing prepared SQL update
+  2021-02-17 15:04:46 DEBUG JdbcTemplate:643 - Executing prepared SQL statement [delete from employees where empno=?]
+  2021-02-17 15:04:46 DEBUG DataSourceUtils:115 - Fetching JDBC Connection from DataSource
+  2021-02-17 15:04:46 DEBUG DriverManagerDataSource:144 - Creating new JDBC DriverManager Connection to [jdbc:postgresql://localhost:5432/postgres]
+  2021-02-17 15:04:46 DEBUG SimpleJdbcCall:259 - Added declared parameter for [updateemp]: sal
+  2021-02-17 15:04:46 DEBUG SimpleJdbcCall:259 - Added declared parameter for [updateemp]: empno
+  2021-02-17 15:04:46 DEBUG SimpleJdbcCall:354 - JdbcCall call not compiled before execution - invoking compile
+  2021-02-17 15:04:46 DEBUG DataSourceUtils:115 - Fetching JDBC Connection from DataSource
+  2021-02-17 15:04:46 DEBUG DriverManagerDataSource:144 - Creating new JDBC DriverManager Connection to [jdbc:postgresql://localhost:5432/postgres]
+  2021-02-17 15:04:46 DEBUG CallMetaDataProviderFactory:133 - Using org.springframework.jdbc.core.metadata.PostgresCallMetaDataProvider
+  2021-02-17 15:04:46 DEBUG CallMetaDataProvider:328 - Retrieving meta-data for null/public/updateemp
+  2021-02-17 15:04:46 DEBUG CallMetaDataProvider:384 - Retrieving column meta-data for procedure null/public/updateemp
+  2021-02-17 15:04:46 DEBUG CallMetaDataProvider:407 - Retrieved meta-data: returnValue 5 -7 bool false
+  2021-02-17 15:04:46 DEBUG CallMetaDataProvider:407 - Retrieved meta-data: sal 1 2 numeric false
+  2021-02-17 15:04:46 DEBUG CallMetaDataProvider:407 - Retrieved meta-data: empno 1 4 int4 false
+  2021-02-17 15:04:46 DEBUG CallMetaDataContext:429 - Added meta-data return parameter for 'returnvalue'
+  2021-02-17 15:04:46 DEBUG CallMetaDataContext:406 - Using declared parameter for 'sal'
+  2021-02-17 15:04:46 DEBUG CallMetaDataContext:406 - Using declared parameter for 'empno'
+  2021-02-17 15:04:46 DEBUG SimpleJdbcCall:323 - Compiled stored procedure. Call string is [{? = call updateemp(?, ?)}]
+  2021-02-17 15:04:46 DEBUG SimpleJdbcCall:301 - SqlCall for function [updateemp] compiled
+  2021-02-17 15:04:46 INFO  CallMetaDataContext:524 - Unable to locate the corresponding parameter value for 'sal' within the parameter values provided: [salary]
+  2021-02-17 15:04:46 INFO  CallMetaDataContext:524 - Unable to locate the corresponding parameter value for 'empno' within the parameter values provided: [salary]
+  2021-02-17 15:04:46 DEBUG CallMetaDataContext:537 - Matching [salary] with [sal, empno]
+  2021-02-17 15:04:46 DEBUG CallMetaDataContext:538 - Found match for []
+  2021-02-17 15:04:46 DEBUG SimpleJdbcCall:404 - The following parameters are used for call {? = call updateemp(?, ?)} with {}
+  2021-02-17 15:04:46 DEBUG SimpleJdbcCall:407 - 1: returnvalue, SQL type -7, type name null, parameter class [org.springframework.jdbc.core.SqlOutParameter]
+  2021-02-17 15:04:46 DEBUG SimpleJdbcCall:407 - 2: sal, SQL type 4, type name null, parameter class [org.springframework.jdbc.core.SqlParameter]
+  2021-02-17 15:04:46 DEBUG SimpleJdbcCall:407 - 3: empno, SQL type 4, type name null, parameter class [org.springframework.jdbc.core.SqlParameter]
+  2021-02-17 15:04:46 DEBUG JdbcTemplate:1182 - Calling stored procedure [{? = call updateemp(?, ?)}]
+  2021-02-17 15:04:46 DEBUG DataSourceUtils:115 - Fetching JDBC Connection from DataSource
+  2021-02-17 15:04:46 DEBUG DriverManagerDataSource:144 - Creating new JDBC DriverManager Connection to [jdbc:postgresql://localhost:5432/postgres]
+  2021-02-17 15:05:44 DEBUG ClassPathXmlApplicationContext:634 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@497470ed
+  2021-02-17 15:05:44 DEBUG XmlBeanDefinitionReader:393 - Loaded 4 bean definitions from class path resource [jdbc.xml]
+  2021-02-17 15:05:44 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'org.springframework.context.support.PropertySourcesPlaceholderConfigurer#0'
+  2021-02-17 15:05:45 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.driverClassName' in PropertySource 'localProperties' with value of type String
+  2021-02-17 15:05:45 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.url' in PropertySource 'localProperties' with value of type String
+  2021-02-17 15:05:45 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.username' in PropertySource 'localProperties' with value of type String
+  2021-02-17 15:05:45 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.password' in PropertySource 'localProperties' with value of type String
+  2021-02-17 15:05:45 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'dataSource'
+  2021-02-17 15:05:45 DEBUG DriverManagerDataSource:134 - Loaded JDBC driver: org.postgresql.Driver
+  2021-02-17 15:05:45 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'jdbcTemplate'
+  2021-02-17 15:05:45 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'employeeDAO'
+  2021-02-17 15:05:45 DEBUG JdbcTemplate:958 - Executing prepared SQL update
+  2021-02-17 15:05:45 DEBUG JdbcTemplate:643 - Executing prepared SQL statement [delete from employees where empno=?]
+  2021-02-17 15:05:45 DEBUG DataSourceUtils:115 - Fetching JDBC Connection from DataSource
+  2021-02-17 15:05:45 DEBUG DriverManagerDataSource:144 - Creating new JDBC DriverManager Connection to [jdbc:postgresql://localhost:5432/postgres]
+  2021-02-17 15:05:45 DEBUG SimpleJdbcCall:259 - Added declared parameter for [updateemp]: sal
+  2021-02-17 15:05:45 DEBUG SimpleJdbcCall:259 - Added declared parameter for [updateemp]: empno
+  2021-02-17 15:05:45 DEBUG SimpleJdbcCall:354 - JdbcCall call not compiled before execution - invoking compile
+  2021-02-17 15:05:45 DEBUG DataSourceUtils:115 - Fetching JDBC Connection from DataSource
+  2021-02-17 15:05:45 DEBUG DriverManagerDataSource:144 - Creating new JDBC DriverManager Connection to [jdbc:postgresql://localhost:5432/postgres]
+  2021-02-17 15:05:45 DEBUG CallMetaDataProviderFactory:133 - Using org.springframework.jdbc.core.metadata.PostgresCallMetaDataProvider
+  2021-02-17 15:05:45 DEBUG CallMetaDataProvider:328 - Retrieving meta-data for null/public/updateemp
+  2021-02-17 15:05:45 DEBUG CallMetaDataProvider:384 - Retrieving column meta-data for procedure null/public/updateemp
+  2021-02-17 15:05:45 DEBUG CallMetaDataProvider:407 - Retrieved meta-data: returnValue 5 -7 bool false
+  2021-02-17 15:05:45 DEBUG CallMetaDataProvider:407 - Retrieved meta-data: sal 1 2 numeric false
+  2021-02-17 15:05:45 DEBUG CallMetaDataProvider:407 - Retrieved meta-data: empno 1 4 int4 false
+  2021-02-17 15:05:45 DEBUG CallMetaDataContext:429 - Added meta-data return parameter for 'returnvalue'
+  2021-02-17 15:05:45 DEBUG CallMetaDataContext:406 - Using declared parameter for 'sal'
+  2021-02-17 15:05:45 DEBUG CallMetaDataContext:406 - Using declared parameter for 'empno'
+  2021-02-17 15:05:45 DEBUG SimpleJdbcCall:323 - Compiled stored procedure. Call string is [{? = call updateemp(?, ?)}]
+  2021-02-17 15:05:45 DEBUG SimpleJdbcCall:301 - SqlCall for function [updateemp] compiled
+  2021-02-17 15:05:45 INFO  CallMetaDataContext:524 - Unable to locate the corresponding parameter value for 'empno' within the parameter values provided: [sal]
+  2021-02-17 15:05:45 DEBUG CallMetaDataContext:537 - Matching [sal] with [sal, empno]
+  2021-02-17 15:05:45 DEBUG CallMetaDataContext:538 - Found match for [sal]
+  2021-02-17 15:05:45 DEBUG SimpleJdbcCall:404 - The following parameters are used for call {? = call updateemp(?, ?)} with {sal=53200.0}
+  2021-02-17 15:05:45 DEBUG SimpleJdbcCall:407 - 1: returnvalue, SQL type -7, type name null, parameter class [org.springframework.jdbc.core.SqlOutParameter]
+  2021-02-17 15:05:45 DEBUG SimpleJdbcCall:407 - 2: sal, SQL type 4, type name null, parameter class [org.springframework.jdbc.core.SqlParameter]
+  2021-02-17 15:05:45 DEBUG SimpleJdbcCall:407 - 3: empno, SQL type 4, type name null, parameter class [org.springframework.jdbc.core.SqlParameter]
+  2021-02-17 15:05:45 DEBUG JdbcTemplate:1182 - Calling stored procedure [{? = call updateemp(?, ?)}]
+  2021-02-17 15:05:45 DEBUG DataSourceUtils:115 - Fetching JDBC Connection from DataSource
+  2021-02-17 15:05:45 DEBUG DriverManagerDataSource:144 - Creating new JDBC DriverManager Connection to [jdbc:postgresql://localhost:5432/postgres]
+  2021-02-17 15:17:15 DEBUG ClassPathXmlApplicationContext:634 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@497470ed
+  2021-02-17 15:17:16 DEBUG XmlBeanDefinitionReader:393 - Loaded 4 bean definitions from class path resource [jdbc.xml]
+  2021-02-17 15:17:16 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'org.springframework.context.support.PropertySourcesPlaceholderConfigurer#0'
+  2021-02-17 15:17:16 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.driverClassName' in PropertySource 'localProperties' with value of type String
+  2021-02-17 15:17:16 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.url' in PropertySource 'localProperties' with value of type String
+  2021-02-17 15:17:16 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.username' in PropertySource 'localProperties' with value of type String
+  2021-02-17 15:17:16 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.password' in PropertySource 'localProperties' with value of type String
+  2021-02-17 15:17:16 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'dataSource'
+  2021-02-17 15:17:16 DEBUG DriverManagerDataSource:134 - Loaded JDBC driver: org.postgresql.Driver
+  2021-02-17 15:17:16 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'jdbcTemplate'
+  2021-02-17 15:17:16 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'employeeDAO'
+  2021-02-17 15:17:16 DEBUG JdbcTemplate:958 - Executing prepared SQL update
+  2021-02-17 15:17:16 DEBUG JdbcTemplate:643 - Executing prepared SQL statement [delete from employees where empno=?]
+  2021-02-17 15:17:16 DEBUG DataSourceUtils:115 - Fetching JDBC Connection from DataSource
+  2021-02-17 15:17:16 DEBUG DriverManagerDataSource:144 - Creating new JDBC DriverManager Connection to [jdbc:postgresql://localhost:5432/postgres]
+  2021-02-17 15:17:16 DEBUG SimpleJdbcCall:259 - Added declared parameter for [updateemp]: sal
+  2021-02-17 15:17:16 DEBUG SimpleJdbcCall:259 - Added declared parameter for [updateemp]: empno
+  2021-02-17 15:17:16 DEBUG SimpleJdbcCall:354 - JdbcCall call not compiled before execution - invoking compile
+  2021-02-17 15:17:16 DEBUG DataSourceUtils:115 - Fetching JDBC Connection from DataSource
+  2021-02-17 15:17:16 DEBUG DriverManagerDataSource:144 - Creating new JDBC DriverManager Connection to [jdbc:postgresql://localhost:5432/postgres]
+  2021-02-17 15:17:16 DEBUG CallMetaDataProviderFactory:133 - Using org.springframework.jdbc.core.metadata.PostgresCallMetaDataProvider
+  2021-02-17 15:17:16 DEBUG CallMetaDataProvider:328 - Retrieving meta-data for null/public/updateemp
+  2021-02-17 15:17:16 DEBUG CallMetaDataProvider:384 - Retrieving column meta-data for procedure null/public/updateemp
+  2021-02-17 15:17:16 DEBUG CallMetaDataProvider:407 - Retrieved meta-data: returnValue 5 -7 bool false
+  2021-02-17 15:17:16 DEBUG CallMetaDataProvider:407 - Retrieved meta-data: sal 1 2 numeric false
+  2021-02-17 15:17:16 DEBUG CallMetaDataProvider:407 - Retrieved meta-data: empno 1 4 int4 false
+  2021-02-17 15:17:16 DEBUG CallMetaDataContext:429 - Added meta-data return parameter for 'returnvalue'
+  2021-02-17 15:17:16 DEBUG CallMetaDataContext:406 - Using declared parameter for 'sal'
+  2021-02-17 15:17:16 DEBUG CallMetaDataContext:406 - Using declared parameter for 'empno'
+  2021-02-17 15:17:16 DEBUG SimpleJdbcCall:323 - Compiled stored procedure. Call string is [{? = call updateemp(?, ?)}]
+  2021-02-17 15:17:16 DEBUG SimpleJdbcCall:301 - SqlCall for function [updateemp] compiled
+  2021-02-17 15:17:16 INFO  CallMetaDataContext:524 - Unable to locate the corresponding parameter value for 'sal' within the parameter values provided: [empno]
+  2021-02-17 15:17:16 DEBUG CallMetaDataContext:537 - Matching [empno] with [sal, empno]
+  2021-02-17 15:17:16 DEBUG CallMetaDataContext:538 - Found match for [empno]
+  2021-02-17 15:17:16 DEBUG SimpleJdbcCall:404 - The following parameters are used for call {? = call updateemp(?, ?)} with {empno=101}
+  2021-02-17 15:17:16 DEBUG SimpleJdbcCall:407 - 1: returnvalue, SQL type -7, type name null, parameter class [org.springframework.jdbc.core.SqlOutParameter]
+  2021-02-17 15:17:16 DEBUG SimpleJdbcCall:407 - 2: sal, SQL type 4, type name null, parameter class [org.springframework.jdbc.core.SqlParameter]
+  2021-02-17 15:17:16 DEBUG SimpleJdbcCall:407 - 3: empno, SQL type 4, type name null, parameter class [org.springframework.jdbc.core.SqlParameter]
+  2021-02-17 15:17:16 DEBUG JdbcTemplate:1182 - Calling stored procedure [{? = call updateemp(?, ?)}]
+  2021-02-17 15:17:16 DEBUG DataSourceUtils:115 - Fetching JDBC Connection from DataSource
+  2021-02-17 15:17:16 DEBUG DriverManagerDataSource:144 - Creating new JDBC DriverManager Connection to [jdbc:postgresql://localhost:5432/postgres]
+  2021-02-17 15:19:03 DEBUG ClassPathXmlApplicationContext:634 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@497470ed
+  2021-02-17 15:19:03 DEBUG XmlBeanDefinitionReader:393 - Loaded 4 bean definitions from class path resource [jdbc.xml]
+  2021-02-17 15:19:03 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'org.springframework.context.support.PropertySourcesPlaceholderConfigurer#0'
+  2021-02-17 15:19:04 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.driverClassName' in PropertySource 'localProperties' with value of type String
+  2021-02-17 15:19:04 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.url' in PropertySource 'localProperties' with value of type String
+  2021-02-17 15:19:04 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.username' in PropertySource 'localProperties' with value of type String
+  2021-02-17 15:19:04 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.password' in PropertySource 'localProperties' with value of type String
+  2021-02-17 15:19:04 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'dataSource'
+  2021-02-17 15:19:04 DEBUG DriverManagerDataSource:134 - Loaded JDBC driver: org.postgresql.Driver
+  2021-02-17 15:19:04 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'jdbcTemplate'
+  2021-02-17 15:19:04 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'employeeDAO'
+  2021-02-17 15:19:04 DEBUG JdbcTemplate:958 - Executing prepared SQL update
+  2021-02-17 15:19:04 DEBUG JdbcTemplate:643 - Executing prepared SQL statement [delete from employees where empno=?]
+  2021-02-17 15:19:04 DEBUG DataSourceUtils:115 - Fetching JDBC Connection from DataSource
+  2021-02-17 15:19:04 DEBUG DriverManagerDataSource:144 - Creating new JDBC DriverManager Connection to [jdbc:postgresql://localhost:5432/postgres]
+  2021-02-17 15:19:04 DEBUG SimpleJdbcCall:259 - Added declared parameter for [updateemp]: sal
+  2021-02-17 15:19:04 DEBUG SimpleJdbcCall:259 - Added declared parameter for [updateemp]: empno
+  2021-02-17 15:19:04 DEBUG SimpleJdbcCall:354 - JdbcCall call not compiled before execution - invoking compile
+  2021-02-17 15:19:04 DEBUG DataSourceUtils:115 - Fetching JDBC Connection from DataSource
+  2021-02-17 15:19:04 DEBUG DriverManagerDataSource:144 - Creating new JDBC DriverManager Connection to [jdbc:postgresql://localhost:5432/postgres]
+  2021-02-17 15:19:04 DEBUG CallMetaDataProviderFactory:133 - Using org.springframework.jdbc.core.metadata.PostgresCallMetaDataProvider
+  2021-02-17 15:19:04 DEBUG CallMetaDataProvider:328 - Retrieving meta-data for null/public/updateemp
+  2021-02-17 15:19:04 DEBUG CallMetaDataProvider:384 - Retrieving column meta-data for procedure null/public/updateemp
+  2021-02-17 15:19:04 DEBUG CallMetaDataProvider:407 - Retrieved meta-data: returnValue 5 -7 bool false
+  2021-02-17 15:19:04 DEBUG CallMetaDataProvider:407 - Retrieved meta-data: sal 1 2 numeric false
+  2021-02-17 15:19:04 DEBUG CallMetaDataProvider:407 - Retrieved meta-data: empno 1 4 int4 false
+  2021-02-17 15:19:04 DEBUG CallMetaDataContext:429 - Added meta-data return parameter for 'returnvalue'
+  2021-02-17 15:19:04 DEBUG CallMetaDataContext:406 - Using declared parameter for 'sal'
+  2021-02-17 15:19:04 DEBUG CallMetaDataContext:406 - Using declared parameter for 'empno'
+  2021-02-17 15:19:04 DEBUG SimpleJdbcCall:323 - Compiled stored procedure. Call string is [{? = call updateemp(?, ?)}]
+  2021-02-17 15:19:04 DEBUG SimpleJdbcCall:301 - SqlCall for function [updateemp] compiled
+  2021-02-17 15:19:04 DEBUG CallMetaDataContext:537 - Matching [empno, sal] with [sal, empno]
+  2021-02-17 15:19:04 DEBUG CallMetaDataContext:538 - Found match for [sal, empno]
+  2021-02-17 15:19:04 DEBUG SimpleJdbcCall:404 - The following parameters are used for call {? = call updateemp(?, ?)} with {sal=53200.0, empno=101}
+  2021-02-17 15:19:04 DEBUG SimpleJdbcCall:407 - 1: returnvalue, SQL type -7, type name null, parameter class [org.springframework.jdbc.core.SqlOutParameter]
+  2021-02-17 15:19:04 DEBUG SimpleJdbcCall:407 - 2: sal, SQL type 4, type name null, parameter class [org.springframework.jdbc.core.SqlParameter]
+  2021-02-17 15:19:04 DEBUG SimpleJdbcCall:407 - 3: empno, SQL type 4, type name null, parameter class [org.springframework.jdbc.core.SqlParameter]
+  2021-02-17 15:19:04 DEBUG JdbcTemplate:1182 - Calling stored procedure [{? = call updateemp(?, ?)}]
+  2021-02-17 15:19:04 DEBUG DataSourceUtils:115 - Fetching JDBC Connection from DataSource
+  2021-02-17 15:19:04 DEBUG DriverManagerDataSource:144 - Creating new JDBC DriverManager Connection to [jdbc:postgresql://localhost:5432/postgres]
+  2021-02-17 15:19:05 DEBUG XmlBeanDefinitionReader:393 - Loaded 11 bean definitions from class path resource [org/springframework/jdbc/support/sql-error-codes.xml]
+  2021-02-17 15:19:05 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'DB2'
+  2021-02-17 15:19:05 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'Derby'
+  2021-02-17 15:19:05 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'H2'
+  2021-02-17 15:19:05 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'HDB'
+  2021-02-17 15:19:05 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'HSQL'
+  2021-02-17 15:19:05 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'Informix'
+  2021-02-17 15:19:05 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'MS-SQL'
+  2021-02-17 15:19:05 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'MySQL'
+  2021-02-17 15:19:05 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'Oracle'
+  2021-02-17 15:19:05 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'PostgreSQL'
+  2021-02-17 15:19:05 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'Sybase'
+  2021-02-17 15:19:05 DEBUG SQLErrorCodesFactory:223 - Looking up default SQLErrorCodes for DataSource [org.springframework.jdbc.datasource.DriverManagerDataSource@2b6faea6]
+  2021-02-17 15:19:05 DEBUG DataSourceUtils:115 - Fetching JDBC Connection from DataSource
+  2021-02-17 15:19:05 DEBUG DriverManagerDataSource:144 - Creating new JDBC DriverManager Connection to [jdbc:postgresql://localhost:5432/postgres]
+  2021-02-17 15:19:05 DEBUG SQLErrorCodesFactory:181 - SQL error codes for 'PostgreSQL' found
+  2021-02-17 15:19:05 DEBUG SQLErrorCodesFactory:267 - Caching SQL error codes for DataSource [org.springframework.jdbc.datasource.DriverManagerDataSource@2b6faea6]: database product name is 'PostgreSQL'
+  2021-02-17 15:19:05 DEBUG SQLErrorCodeSQLExceptionTranslator:289 - Unable to translate SQLException with SQL state '42702', error code '0, will now try the fallback translator
+  2021-02-17 15:19:05 DEBUG SQLStateSQLExceptionTranslator:98 - Extracted SQL state class '42' from value '42702'
+  2021-02-17 15:19:53 DEBUG ClassPathXmlApplicationContext:634 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@497470ed
+  2021-02-17 15:19:53 DEBUG XmlBeanDefinitionReader:393 - Loaded 4 bean definitions from class path resource [jdbc.xml]
+  2021-02-17 15:19:53 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'org.springframework.context.support.PropertySourcesPlaceholderConfigurer#0'
+  2021-02-17 15:19:54 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.driverClassName' in PropertySource 'localProperties' with value of type String
+  2021-02-17 15:19:54 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.url' in PropertySource 'localProperties' with value of type String
+  2021-02-17 15:19:54 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.username' in PropertySource 'localProperties' with value of type String
+  2021-02-17 15:19:54 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.password' in PropertySource 'localProperties' with value of type String
+  2021-02-17 15:19:54 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'dataSource'
+  2021-02-17 15:19:54 DEBUG DriverManagerDataSource:134 - Loaded JDBC driver: org.postgresql.Driver
+  2021-02-17 15:19:54 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'jdbcTemplate'
+  2021-02-17 15:19:54 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'employeeDAO'
+  2021-02-17 15:19:54 DEBUG JdbcTemplate:958 - Executing prepared SQL update
+  2021-02-17 15:19:54 DEBUG JdbcTemplate:643 - Executing prepared SQL statement [delete from employees where empno=?]
+  2021-02-17 15:19:54 DEBUG DataSourceUtils:115 - Fetching JDBC Connection from DataSource
+  2021-02-17 15:19:54 DEBUG DriverManagerDataSource:144 - Creating new JDBC DriverManager Connection to [jdbc:postgresql://localhost:5432/postgres]
+  2021-02-17 15:19:54 DEBUG SimpleJdbcCall:259 - Added declared parameter for [updateemp]: sal
+  2021-02-17 15:19:54 DEBUG SimpleJdbcCall:259 - Added declared parameter for [updateemp]: empno
+  2021-02-17 15:19:54 DEBUG SimpleJdbcCall:354 - JdbcCall call not compiled before execution - invoking compile
+  2021-02-17 15:19:54 DEBUG DataSourceUtils:115 - Fetching JDBC Connection from DataSource
+  2021-02-17 15:19:54 DEBUG DriverManagerDataSource:144 - Creating new JDBC DriverManager Connection to [jdbc:postgresql://localhost:5432/postgres]
+  2021-02-17 15:19:54 DEBUG CallMetaDataProviderFactory:133 - Using org.springframework.jdbc.core.metadata.PostgresCallMetaDataProvider
+  2021-02-17 15:19:54 DEBUG CallMetaDataProvider:328 - Retrieving meta-data for null/public/updateemp
+  2021-02-17 15:19:54 DEBUG CallMetaDataProvider:384 - Retrieving column meta-data for procedure null/public/updateemp
+  2021-02-17 15:19:54 DEBUG CallMetaDataProvider:407 - Retrieved meta-data: returnValue 5 -7 bool false
+  2021-02-17 15:19:54 DEBUG CallMetaDataProvider:407 - Retrieved meta-data: sal 1 2 numeric false
+  2021-02-17 15:19:54 DEBUG CallMetaDataProvider:407 - Retrieved meta-data: no 1 4 int4 false
+  2021-02-17 15:19:54 DEBUG CallMetaDataContext:429 - Added meta-data return parameter for 'returnvalue'
+  2021-02-17 15:19:54 DEBUG CallMetaDataContext:406 - Using declared parameter for 'sal'
+  2021-02-17 15:19:54 DEBUG CallMetaDataContext:457 - Added meta-data in parameter for 'no'
+  2021-02-17 15:19:54 DEBUG SimpleJdbcCall:323 - Compiled stored procedure. Call string is [{? = call updateemp(?, ?)}]
+  2021-02-17 15:19:54 DEBUG SimpleJdbcCall:301 - SqlCall for function [updateemp] compiled
+  2021-02-17 15:19:54 INFO  CallMetaDataContext:524 - Unable to locate the corresponding parameter value for 'no' within the parameter values provided: [empno, sal]
+  2021-02-17 15:19:54 DEBUG CallMetaDataContext:537 - Matching [empno, sal] with [no, sal]
+  2021-02-17 15:19:54 DEBUG CallMetaDataContext:538 - Found match for [sal]
+  2021-02-17 15:19:54 DEBUG SimpleJdbcCall:404 - The following parameters are used for call {? = call updateemp(?, ?)} with {sal=53200.0}
+  2021-02-17 15:19:54 DEBUG SimpleJdbcCall:407 - 1: returnvalue, SQL type -7, type name null, parameter class [org.springframework.jdbc.core.SqlOutParameter]
+  2021-02-17 15:19:54 DEBUG SimpleJdbcCall:407 - 2: sal, SQL type 4, type name null, parameter class [org.springframework.jdbc.core.SqlParameter]
+  2021-02-17 15:19:54 DEBUG SimpleJdbcCall:407 - 3: no, SQL type 4, type name null, parameter class [org.springframework.jdbc.core.SqlParameter]
+  2021-02-17 15:19:54 DEBUG JdbcTemplate:1182 - Calling stored procedure [{? = call updateemp(?, ?)}]
+  2021-02-17 15:19:54 DEBUG DataSourceUtils:115 - Fetching JDBC Connection from DataSource
+  2021-02-17 15:19:54 DEBUG DriverManagerDataSource:144 - Creating new JDBC DriverManager Connection to [jdbc:postgresql://localhost:5432/postgres]
+  2021-02-17 15:21:00 DEBUG ClassPathXmlApplicationContext:634 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@497470ed
+  2021-02-17 15:21:01 DEBUG XmlBeanDefinitionReader:393 - Loaded 4 bean definitions from class path resource [jdbc.xml]
+  2021-02-17 15:21:01 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'org.springframework.context.support.PropertySourcesPlaceholderConfigurer#0'
+  2021-02-17 15:21:01 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.driverClassName' in PropertySource 'localProperties' with value of type String
+  2021-02-17 15:21:01 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.url' in PropertySource 'localProperties' with value of type String
+  2021-02-17 15:21:01 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.username' in PropertySource 'localProperties' with value of type String
+  2021-02-17 15:21:01 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.password' in PropertySource 'localProperties' with value of type String
+  2021-02-17 15:21:01 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'dataSource'
+  2021-02-17 15:21:01 DEBUG DriverManagerDataSource:134 - Loaded JDBC driver: org.postgresql.Driver
+  2021-02-17 15:21:01 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'jdbcTemplate'
+  2021-02-17 15:21:01 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'employeeDAO'
+  2021-02-17 15:21:01 DEBUG JdbcTemplate:958 - Executing prepared SQL update
+  2021-02-17 15:21:01 DEBUG JdbcTemplate:643 - Executing prepared SQL statement [delete from employees where empno=?]
+  2021-02-17 15:21:01 DEBUG DataSourceUtils:115 - Fetching JDBC Connection from DataSource
+  2021-02-17 15:21:01 DEBUG DriverManagerDataSource:144 - Creating new JDBC DriverManager Connection to [jdbc:postgresql://localhost:5432/postgres]
+  2021-02-17 15:21:01 DEBUG SimpleJdbcCall:259 - Added declared parameter for [updateemp]: sal
+  2021-02-17 15:21:01 DEBUG SimpleJdbcCall:259 - Added declared parameter for [updateemp]: empno
+  2021-02-17 15:21:01 DEBUG SimpleJdbcCall:354 - JdbcCall call not compiled before execution - invoking compile
+  2021-02-17 15:21:02 DEBUG DataSourceUtils:115 - Fetching JDBC Connection from DataSource
+  2021-02-17 15:21:02 DEBUG DriverManagerDataSource:144 - Creating new JDBC DriverManager Connection to [jdbc:postgresql://localhost:5432/postgres]
+  2021-02-17 15:21:02 DEBUG CallMetaDataProviderFactory:133 - Using org.springframework.jdbc.core.metadata.PostgresCallMetaDataProvider
+  2021-02-17 15:21:02 DEBUG CallMetaDataProvider:328 - Retrieving meta-data for null/public/updateemp
+  2021-02-17 15:21:02 DEBUG CallMetaDataProvider:384 - Retrieving column meta-data for procedure null/public/updateemp
+  2021-02-17 15:21:02 DEBUG CallMetaDataProvider:407 - Retrieved meta-data: returnValue 5 -7 bool false
+  2021-02-17 15:21:02 DEBUG CallMetaDataProvider:407 - Retrieved meta-data: sal 1 2 numeric false
+  2021-02-17 15:21:02 DEBUG CallMetaDataProvider:407 - Retrieved meta-data: no 1 4 int4 false
+  2021-02-17 15:21:02 DEBUG CallMetaDataContext:429 - Added meta-data return parameter for 'returnvalue'
+  2021-02-17 15:21:02 DEBUG CallMetaDataContext:406 - Using declared parameter for 'sal'
+  2021-02-17 15:21:02 DEBUG CallMetaDataContext:457 - Added meta-data in parameter for 'no'
+  2021-02-17 15:21:02 DEBUG SimpleJdbcCall:323 - Compiled stored procedure. Call string is [{? = call updateemp(?, ?)}]
+  2021-02-17 15:21:02 DEBUG SimpleJdbcCall:301 - SqlCall for function [updateemp] compiled
+  2021-02-17 15:21:02 DEBUG CallMetaDataContext:537 - Matching [no, sal] with [no, sal]
+  2021-02-17 15:21:02 DEBUG CallMetaDataContext:538 - Found match for [no, sal]
+  2021-02-17 15:21:02 DEBUG SimpleJdbcCall:404 - The following parameters are used for call {? = call updateemp(?, ?)} with {no=101, sal=53200.0}
+  2021-02-17 15:21:02 DEBUG SimpleJdbcCall:407 - 1: returnvalue, SQL type -7, type name null, parameter class [org.springframework.jdbc.core.SqlOutParameter]
+  2021-02-17 15:21:02 DEBUG SimpleJdbcCall:407 - 2: sal, SQL type 4, type name null, parameter class [org.springframework.jdbc.core.SqlParameter]
+  2021-02-17 15:21:02 DEBUG SimpleJdbcCall:407 - 3: no, SQL type 4, type name null, parameter class [org.springframework.jdbc.core.SqlParameter]
+  2021-02-17 15:21:02 DEBUG JdbcTemplate:1182 - Calling stored procedure [{? = call updateemp(?, ?)}]
+  2021-02-17 15:21:02 DEBUG DataSourceUtils:115 - Fetching JDBC Connection from DataSource
+  2021-02-17 15:21:02 DEBUG DriverManagerDataSource:144 - Creating new JDBC DriverManager Connection to [jdbc:postgresql://localhost:5432/postgres]
+  2021-02-17 15:21:52 DEBUG ClassPathXmlApplicationContext:634 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@497470ed
+  2021-02-17 15:21:53 DEBUG XmlBeanDefinitionReader:393 - Loaded 4 bean definitions from class path resource [jdbc.xml]
+  2021-02-17 15:21:53 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'org.springframework.context.support.PropertySourcesPlaceholderConfigurer#0'
+  2021-02-17 15:21:53 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.driverClassName' in PropertySource 'localProperties' with value of type String
+  2021-02-17 15:21:53 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.url' in PropertySource 'localProperties' with value of type String
+  2021-02-17 15:21:53 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.username' in PropertySource 'localProperties' with value of type String
+  2021-02-17 15:21:53 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.password' in PropertySource 'localProperties' with value of type String
+  2021-02-17 15:21:53 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'dataSource'
+  2021-02-17 15:21:53 DEBUG DriverManagerDataSource:134 - Loaded JDBC driver: org.postgresql.Driver
+  2021-02-17 15:21:53 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'jdbcTemplate'
+  2021-02-17 15:21:54 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'employeeDAO'
+  2021-02-17 15:21:54 DEBUG JdbcTemplate:958 - Executing prepared SQL update
+  2021-02-17 15:21:54 DEBUG JdbcTemplate:643 - Executing prepared SQL statement [insert into employees values(?,?,?,?)]
+  2021-02-17 15:21:54 DEBUG DataSourceUtils:115 - Fetching JDBC Connection from DataSource
+  2021-02-17 15:21:54 DEBUG DriverManagerDataSource:144 - Creating new JDBC DriverManager Connection to [jdbc:postgresql://localhost:5432/postgres]
+  2021-02-17 15:21:54 DEBUG JdbcTemplate:958 - Executing prepared SQL update
+  2021-02-17 15:21:54 DEBUG JdbcTemplate:643 - Executing prepared SQL statement [delete from employees where empno=?]
+  2021-02-17 15:21:54 DEBUG DataSourceUtils:115 - Fetching JDBC Connection from DataSource
+  2021-02-17 15:21:54 DEBUG DriverManagerDataSource:144 - Creating new JDBC DriverManager Connection to [jdbc:postgresql://localhost:5432/postgres]
+  2021-02-17 15:21:54 DEBUG SimpleJdbcCall:259 - Added declared parameter for [updateemp]: sal
+  2021-02-17 15:21:54 DEBUG SimpleJdbcCall:259 - Added declared parameter for [updateemp]: empno
+  2021-02-17 15:21:54 DEBUG SimpleJdbcCall:354 - JdbcCall call not compiled before execution - invoking compile
+  2021-02-17 15:21:54 DEBUG DataSourceUtils:115 - Fetching JDBC Connection from DataSource
+  2021-02-17 15:21:54 DEBUG DriverManagerDataSource:144 - Creating new JDBC DriverManager Connection to [jdbc:postgresql://localhost:5432/postgres]
+  2021-02-17 15:21:54 DEBUG CallMetaDataProviderFactory:133 - Using org.springframework.jdbc.core.metadata.PostgresCallMetaDataProvider
+  2021-02-17 15:21:54 DEBUG CallMetaDataProvider:328 - Retrieving meta-data for null/public/updateemp
+  2021-02-17 15:21:54 DEBUG CallMetaDataProvider:384 - Retrieving column meta-data for procedure null/public/updateemp
+  2021-02-17 15:21:54 DEBUG CallMetaDataProvider:407 - Retrieved meta-data: returnValue 5 -7 bool false
+  2021-02-17 15:21:54 DEBUG CallMetaDataProvider:407 - Retrieved meta-data: sal 1 2 numeric false
+  2021-02-17 15:21:54 DEBUG CallMetaDataProvider:407 - Retrieved meta-data: no 1 4 int4 false
+  2021-02-17 15:21:54 DEBUG CallMetaDataContext:429 - Added meta-data return parameter for 'returnvalue'
+  2021-02-17 15:21:54 DEBUG CallMetaDataContext:406 - Using declared parameter for 'sal'
+  2021-02-17 15:21:54 DEBUG CallMetaDataContext:457 - Added meta-data in parameter for 'no'
+  2021-02-17 15:21:54 DEBUG SimpleJdbcCall:323 - Compiled stored procedure. Call string is [{? = call updateemp(?, ?)}]
+  2021-02-17 15:21:54 DEBUG SimpleJdbcCall:301 - SqlCall for function [updateemp] compiled
+  2021-02-17 15:21:54 DEBUG CallMetaDataContext:537 - Matching [no, sal] with [no, sal]
+  2021-02-17 15:21:54 DEBUG CallMetaDataContext:538 - Found match for [no, sal]
+  2021-02-17 15:21:54 DEBUG SimpleJdbcCall:404 - The following parameters are used for call {? = call updateemp(?, ?)} with {no=101, sal=0.0}
+  2021-02-17 15:21:54 DEBUG SimpleJdbcCall:407 - 1: returnvalue, SQL type -7, type name null, parameter class [org.springframework.jdbc.core.SqlOutParameter]
+  2021-02-17 15:21:54 DEBUG SimpleJdbcCall:407 - 2: sal, SQL type 4, type name null, parameter class [org.springframework.jdbc.core.SqlParameter]
+  2021-02-17 15:21:54 DEBUG SimpleJdbcCall:407 - 3: no, SQL type 4, type name null, parameter class [org.springframework.jdbc.core.SqlParameter]
+  2021-02-17 15:21:54 DEBUG JdbcTemplate:1182 - Calling stored procedure [{? = call updateemp(?, ?)}]
+  2021-02-17 15:21:54 DEBUG DataSourceUtils:115 - Fetching JDBC Connection from DataSource
+  2021-02-17 15:21:54 DEBUG DriverManagerDataSource:144 - Creating new JDBC DriverManager Connection to [jdbc:postgresql://localhost:5432/postgres]
+  2021-02-17 15:22:22 DEBUG ClassPathXmlApplicationContext:634 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@497470ed
+  2021-02-17 15:22:23 DEBUG XmlBeanDefinitionReader:393 - Loaded 4 bean definitions from class path resource [jdbc.xml]
+  2021-02-17 15:22:23 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'org.springframework.context.support.PropertySourcesPlaceholderConfigurer#0'
+  2021-02-17 15:22:23 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.driverClassName' in PropertySource 'localProperties' with value of type String
+  2021-02-17 15:22:23 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.url' in PropertySource 'localProperties' with value of type String
+  2021-02-17 15:22:23 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.username' in PropertySource 'localProperties' with value of type String
+  2021-02-17 15:22:23 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.password' in PropertySource 'localProperties' with value of type String
+  2021-02-17 15:22:23 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'dataSource'
+  2021-02-17 15:22:24 DEBUG DriverManagerDataSource:134 - Loaded JDBC driver: org.postgresql.Driver
+  2021-02-17 15:22:24 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'jdbcTemplate'
+  2021-02-17 15:22:24 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'employeeDAO'
+  2021-02-17 15:22:24 DEBUG JdbcTemplate:958 - Executing prepared SQL update
+  2021-02-17 15:22:24 DEBUG JdbcTemplate:643 - Executing prepared SQL statement [insert into employees values(?,?,?,?)]
+  2021-02-17 15:22:24 DEBUG DataSourceUtils:115 - Fetching JDBC Connection from DataSource
+  2021-02-17 15:22:24 DEBUG DriverManagerDataSource:144 - Creating new JDBC DriverManager Connection to [jdbc:postgresql://localhost:5432/postgres]
+  2021-02-17 15:22:24 DEBUG SimpleJdbcCall:259 - Added declared parameter for [updateemp]: sal
+  2021-02-17 15:22:24 DEBUG SimpleJdbcCall:259 - Added declared parameter for [updateemp]: empno
+  2021-02-17 15:22:24 DEBUG SimpleJdbcCall:354 - JdbcCall call not compiled before execution - invoking compile
+  2021-02-17 15:22:24 DEBUG DataSourceUtils:115 - Fetching JDBC Connection from DataSource
+  2021-02-17 15:22:24 DEBUG DriverManagerDataSource:144 - Creating new JDBC DriverManager Connection to [jdbc:postgresql://localhost:5432/postgres]
+  2021-02-17 15:22:24 DEBUG CallMetaDataProviderFactory:133 - Using org.springframework.jdbc.core.metadata.PostgresCallMetaDataProvider
+  2021-02-17 15:22:24 DEBUG CallMetaDataProvider:328 - Retrieving meta-data for null/public/updateemp
+  2021-02-17 15:22:24 DEBUG CallMetaDataProvider:384 - Retrieving column meta-data for procedure null/public/updateemp
+  2021-02-17 15:22:24 DEBUG CallMetaDataProvider:407 - Retrieved meta-data: returnValue 5 -7 bool false
+  2021-02-17 15:22:24 DEBUG CallMetaDataProvider:407 - Retrieved meta-data: sal 1 2 numeric false
+  2021-02-17 15:22:24 DEBUG CallMetaDataProvider:407 - Retrieved meta-data: no 1 4 int4 false
+  2021-02-17 15:22:24 DEBUG CallMetaDataContext:429 - Added meta-data return parameter for 'returnvalue'
+  2021-02-17 15:22:24 DEBUG CallMetaDataContext:406 - Using declared parameter for 'sal'
+  2021-02-17 15:22:24 DEBUG CallMetaDataContext:457 - Added meta-data in parameter for 'no'
+  2021-02-17 15:22:24 DEBUG SimpleJdbcCall:323 - Compiled stored procedure. Call string is [{? = call updateemp(?, ?)}]
+  2021-02-17 15:22:24 DEBUG SimpleJdbcCall:301 - SqlCall for function [updateemp] compiled
+  2021-02-17 15:22:24 DEBUG CallMetaDataContext:537 - Matching [no, sal] with [no, sal]
+  2021-02-17 15:22:24 DEBUG CallMetaDataContext:538 - Found match for [no, sal]
+  2021-02-17 15:22:24 DEBUG SimpleJdbcCall:404 - The following parameters are used for call {? = call updateemp(?, ?)} with {no=101, sal=0.0}
+  2021-02-17 15:22:24 DEBUG SimpleJdbcCall:407 - 1: returnvalue, SQL type -7, type name null, parameter class [org.springframework.jdbc.core.SqlOutParameter]
+  2021-02-17 15:22:24 DEBUG SimpleJdbcCall:407 - 2: sal, SQL type 4, type name null, parameter class [org.springframework.jdbc.core.SqlParameter]
+  2021-02-17 15:22:24 DEBUG SimpleJdbcCall:407 - 3: no, SQL type 4, type name null, parameter class [org.springframework.jdbc.core.SqlParameter]
+  2021-02-17 15:22:24 DEBUG JdbcTemplate:1182 - Calling stored procedure [{? = call updateemp(?, ?)}]
+  2021-02-17 15:22:24 DEBUG DataSourceUtils:115 - Fetching JDBC Connection from DataSource
+  2021-02-17 15:22:24 DEBUG DriverManagerDataSource:144 - Creating new JDBC DriverManager Connection to [jdbc:postgresql://localhost:5432/postgres]
+  2021-02-17 15:32:19 DEBUG ClassPathXmlApplicationContext:634 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@497470ed
+  2021-02-17 15:32:19 DEBUG XmlBeanDefinitionReader:393 - Loaded 4 bean definitions from class path resource [jdbc.xml]
+  2021-02-17 15:32:19 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'org.springframework.context.support.PropertySourcesPlaceholderConfigurer#0'
+  2021-02-17 15:32:20 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.driverClassName' in PropertySource 'localProperties' with value of type String
+  2021-02-17 15:32:20 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.url' in PropertySource 'localProperties' with value of type String
+  2021-02-17 15:32:20 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.username' in PropertySource 'localProperties' with value of type String
+  2021-02-17 15:32:20 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.password' in PropertySource 'localProperties' with value of type String
+  2021-02-17 15:32:20 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'dataSource'
+  2021-02-17 15:32:20 DEBUG DriverManagerDataSource:134 - Loaded JDBC driver: org.postgresql.Driver
+  2021-02-17 15:32:20 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'jdbcTemplate'
+  2021-02-17 15:32:20 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'employeeDAO'
+  2021-02-17 15:32:20 DEBUG JdbcTemplate:958 - Executing prepared SQL update
+  2021-02-17 15:32:20 DEBUG JdbcTemplate:643 - Executing prepared SQL statement [insert into employees values(?,?,?,?)]
+  2021-02-17 15:32:20 DEBUG DataSourceUtils:115 - Fetching JDBC Connection from DataSource
+  2021-02-17 15:32:20 DEBUG DriverManagerDataSource:144 - Creating new JDBC DriverManager Connection to [jdbc:postgresql://localhost:5432/postgres]
+  2021-02-17 15:32:20 DEBUG SimpleJdbcCall:259 - Added declared parameter for [updateemp]: sal
+  2021-02-17 15:32:20 DEBUG SimpleJdbcCall:259 - Added declared parameter for [updateemp]: empno
+  2021-02-17 15:32:20 DEBUG SimpleJdbcCall:354 - JdbcCall call not compiled before execution - invoking compile
+  2021-02-17 15:32:20 DEBUG DataSourceUtils:115 - Fetching JDBC Connection from DataSource
+  2021-02-17 15:32:20 DEBUG DriverManagerDataSource:144 - Creating new JDBC DriverManager Connection to [jdbc:postgresql://localhost:5432/postgres]
+  2021-02-17 15:32:20 DEBUG CallMetaDataProviderFactory:133 - Using org.springframework.jdbc.core.metadata.PostgresCallMetaDataProvider
+  2021-02-17 15:32:20 DEBUG CallMetaDataProvider:328 - Retrieving meta-data for null/public/updateemp
+  2021-02-17 15:32:20 DEBUG CallMetaDataProvider:384 - Retrieving column meta-data for procedure null/public/updateemp
+  2021-02-17 15:32:20 DEBUG CallMetaDataProvider:407 - Retrieved meta-data: returnValue 5 -7 bool false
+  2021-02-17 15:32:20 DEBUG CallMetaDataProvider:407 - Retrieved meta-data: sal 1 2 numeric false
+  2021-02-17 15:32:20 DEBUG CallMetaDataProvider:407 - Retrieved meta-data: no 1 4 int4 false
+  2021-02-17 15:32:20 DEBUG CallMetaDataContext:429 - Added meta-data return parameter for 'returnvalue'
+  2021-02-17 15:32:20 DEBUG CallMetaDataContext:406 - Using declared parameter for 'sal'
+  2021-02-17 15:32:20 DEBUG CallMetaDataContext:457 - Added meta-data in parameter for 'no'
+  2021-02-17 15:32:20 DEBUG SimpleJdbcCall:323 - Compiled stored procedure. Call string is [{? = call updateemp(?, ?)}]
+  2021-02-17 15:32:20 DEBUG SimpleJdbcCall:301 - SqlCall for function [updateemp] compiled
+  2021-02-17 15:32:20 DEBUG CallMetaDataContext:537 - Matching [no, sal] with [no, sal]
+  2021-02-17 15:32:20 DEBUG CallMetaDataContext:538 - Found match for [no, sal]
+  2021-02-17 15:32:20 DEBUG SimpleJdbcCall:404 - The following parameters are used for call {? = call updateemp(?, ?)} with {no=101, sal=0.0}
+  2021-02-17 15:32:20 DEBUG SimpleJdbcCall:407 - 1: returnvalue, SQL type -7, type name null, parameter class [org.springframework.jdbc.core.SqlOutParameter]
+  2021-02-17 15:32:20 DEBUG SimpleJdbcCall:407 - 2: sal, SQL type 4, type name null, parameter class [org.springframework.jdbc.core.SqlParameter]
+  2021-02-17 15:32:20 DEBUG SimpleJdbcCall:407 - 3: no, SQL type 4, type name null, parameter class [org.springframework.jdbc.core.SqlParameter]
+  2021-02-17 15:32:20 DEBUG JdbcTemplate:1182 - Calling stored procedure [{? = call updateemp(?, ?)}]
+  2021-02-17 15:32:20 DEBUG DataSourceUtils:115 - Fetching JDBC Connection from DataSource
+  2021-02-17 15:32:20 DEBUG DriverManagerDataSource:144 - Creating new JDBC DriverManager Connection to [jdbc:postgresql://localhost:5432/postgres]
+  2021-02-17 15:33:59 DEBUG ClassPathXmlApplicationContext:634 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@497470ed
+  2021-02-17 15:33:59 DEBUG XmlBeanDefinitionReader:393 - Loaded 4 bean definitions from class path resource [jdbc.xml]
+  2021-02-17 15:33:59 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'org.springframework.context.support.PropertySourcesPlaceholderConfigurer#0'
+  2021-02-17 15:34:00 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.driverClassName' in PropertySource 'localProperties' with value of type String
+  2021-02-17 15:34:00 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.url' in PropertySource 'localProperties' with value of type String
+  2021-02-17 15:34:00 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.username' in PropertySource 'localProperties' with value of type String
+  2021-02-17 15:34:00 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.password' in PropertySource 'localProperties' with value of type String
+  2021-02-17 15:34:00 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'dataSource'
+  2021-02-17 15:34:00 DEBUG DriverManagerDataSource:134 - Loaded JDBC driver: org.postgresql.Driver
+  2021-02-17 15:34:00 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'jdbcTemplate'
+  2021-02-17 15:34:00 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'employeeDAO'
+  2021-02-17 15:34:00 DEBUG JdbcTemplate:958 - Executing prepared SQL update
+  2021-02-17 15:34:00 DEBUG JdbcTemplate:643 - Executing prepared SQL statement [insert into employees values(?,?,?,?)]
+  2021-02-17 15:34:00 DEBUG DataSourceUtils:115 - Fetching JDBC Connection from DataSource
+  2021-02-17 15:34:00 DEBUG DriverManagerDataSource:144 - Creating new JDBC DriverManager Connection to [jdbc:postgresql://localhost:5432/postgres]
+  2021-02-17 15:34:00 DEBUG SimpleJdbcCall:259 - Added declared parameter for [updateemp]: sal
+  2021-02-17 15:34:00 DEBUG SimpleJdbcCall:259 - Added declared parameter for [updateemp]: empno
+  2021-02-17 15:34:00 DEBUG SimpleJdbcCall:354 - JdbcCall call not compiled before execution - invoking compile
+  2021-02-17 15:34:00 DEBUG DataSourceUtils:115 - Fetching JDBC Connection from DataSource
+  2021-02-17 15:34:00 DEBUG DriverManagerDataSource:144 - Creating new JDBC DriverManager Connection to [jdbc:postgresql://localhost:5432/postgres]
+  2021-02-17 15:34:00 DEBUG CallMetaDataProviderFactory:133 - Using org.springframework.jdbc.core.metadata.PostgresCallMetaDataProvider
+  2021-02-17 15:34:00 DEBUG CallMetaDataProvider:328 - Retrieving meta-data for null/public/updateemp
+  2021-02-17 15:34:00 DEBUG CallMetaDataProvider:384 - Retrieving column meta-data for procedure null/public/updateemp
+  2021-02-17 15:34:00 DEBUG CallMetaDataProvider:407 - Retrieved meta-data: returnValue 5 -7 bool false
+  2021-02-17 15:34:00 DEBUG CallMetaDataProvider:407 - Retrieved meta-data: sal 1 2 numeric false
+  2021-02-17 15:34:00 DEBUG CallMetaDataProvider:407 - Retrieved meta-data: no 1 4 int4 false
+  2021-02-17 15:34:00 DEBUG CallMetaDataContext:429 - Added meta-data return parameter for 'returnvalue'
+  2021-02-17 15:34:00 DEBUG CallMetaDataContext:406 - Using declared parameter for 'sal'
+  2021-02-17 15:34:00 DEBUG CallMetaDataContext:457 - Added meta-data in parameter for 'no'
+  2021-02-17 15:34:00 DEBUG SimpleJdbcCall:323 - Compiled stored procedure. Call string is [{? = call updateemp(?, ?)}]
+  2021-02-17 15:34:00 DEBUG SimpleJdbcCall:301 - SqlCall for function [updateemp] compiled
+  2021-02-17 15:34:00 DEBUG CallMetaDataContext:537 - Matching [no, sal] with [no, sal]
+  2021-02-17 15:34:00 DEBUG CallMetaDataContext:538 - Found match for [no, sal]
+  2021-02-17 15:34:00 DEBUG SimpleJdbcCall:404 - The following parameters are used for call {? = call updateemp(?, ?)} with {no=101, sal=0.0}
+  2021-02-17 15:34:00 DEBUG SimpleJdbcCall:407 - 1: returnvalue, SQL type -7, type name null, parameter class [org.springframework.jdbc.core.SqlOutParameter]
+  2021-02-17 15:34:00 DEBUG SimpleJdbcCall:407 - 2: sal, SQL type 4, type name null, parameter class [org.springframework.jdbc.core.SqlParameter]
+  2021-02-17 15:34:00 DEBUG SimpleJdbcCall:407 - 3: no, SQL type 4, type name null, parameter class [org.springframework.jdbc.core.SqlParameter]
+  2021-02-17 15:34:00 DEBUG JdbcTemplate:1182 - Calling stored procedure [{? = call updateemp(?, ?)}]
+  2021-02-17 15:34:00 DEBUG DataSourceUtils:115 - Fetching JDBC Connection from DataSource
+  2021-02-17 15:34:00 DEBUG DriverManagerDataSource:144 - Creating new JDBC DriverManager Connection to [jdbc:postgresql://localhost:5432/postgres]
+  2021-02-17 15:34:43 DEBUG ClassPathXmlApplicationContext:634 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@497470ed
+  2021-02-17 15:34:44 DEBUG XmlBeanDefinitionReader:393 - Loaded 4 bean definitions from class path resource [jdbc.xml]
+  2021-02-17 15:34:44 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'org.springframework.context.support.PropertySourcesPlaceholderConfigurer#0'
+  2021-02-17 15:34:44 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.driverClassName' in PropertySource 'localProperties' with value of type String
+  2021-02-17 15:34:44 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.url' in PropertySource 'localProperties' with value of type String
+  2021-02-17 15:34:44 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.username' in PropertySource 'localProperties' with value of type String
+  2021-02-17 15:34:44 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.password' in PropertySource 'localProperties' with value of type String
+  2021-02-17 15:34:44 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'dataSource'
+  2021-02-17 15:34:44 DEBUG DriverManagerDataSource:134 - Loaded JDBC driver: org.postgresql.Driver
+  2021-02-17 15:34:44 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'jdbcTemplate'
+  2021-02-17 15:34:44 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'employeeDAO'
+  2021-02-17 15:34:44 DEBUG JdbcTemplate:958 - Executing prepared SQL update
+  2021-02-17 15:34:44 DEBUG JdbcTemplate:643 - Executing prepared SQL statement [insert into employees values(?,?,?,?)]
+  2021-02-17 15:34:44 DEBUG DataSourceUtils:115 - Fetching JDBC Connection from DataSource
+  2021-02-17 15:34:44 DEBUG DriverManagerDataSource:144 - Creating new JDBC DriverManager Connection to [jdbc:postgresql://localhost:5432/postgres]
+  2021-02-17 15:34:45 DEBUG SimpleJdbcCall:259 - Added declared parameter for [updateemp]: sal
+  2021-02-17 15:34:45 DEBUG SimpleJdbcCall:259 - Added declared parameter for [updateemp]: empno
+  2021-02-17 15:34:45 DEBUG SimpleJdbcCall:354 - JdbcCall call not compiled before execution - invoking compile
+  2021-02-17 15:34:45 DEBUG DataSourceUtils:115 - Fetching JDBC Connection from DataSource
+  2021-02-17 15:34:45 DEBUG DriverManagerDataSource:144 - Creating new JDBC DriverManager Connection to [jdbc:postgresql://localhost:5432/postgres]
+  2021-02-17 15:34:45 DEBUG CallMetaDataProviderFactory:133 - Using org.springframework.jdbc.core.metadata.PostgresCallMetaDataProvider
+  2021-02-17 15:34:45 DEBUG CallMetaDataProvider:328 - Retrieving meta-data for null/public/updateemp
+  2021-02-17 15:34:45 DEBUG CallMetaDataProvider:384 - Retrieving column meta-data for procedure null/public/updateemp
+  2021-02-17 15:34:45 DEBUG CallMetaDataProvider:407 - Retrieved meta-data: returnValue 5 -7 bool false
+  2021-02-17 15:34:45 DEBUG CallMetaDataProvider:407 - Retrieved meta-data: sal 1 2 numeric false
+  2021-02-17 15:34:45 DEBUG CallMetaDataProvider:407 - Retrieved meta-data: no 1 4 int4 false
+  2021-02-17 15:34:45 DEBUG CallMetaDataContext:429 - Added meta-data return parameter for 'returnvalue'
+  2021-02-17 15:34:45 DEBUG CallMetaDataContext:406 - Using declared parameter for 'sal'
+  2021-02-17 15:34:45 DEBUG CallMetaDataContext:457 - Added meta-data in parameter for 'no'
+  2021-02-17 15:34:45 DEBUG SimpleJdbcCall:323 - Compiled stored procedure. Call string is [{? = call updateemp(?, ?)}]
+  2021-02-17 15:34:45 DEBUG SimpleJdbcCall:301 - SqlCall for function [updateemp] compiled
+  2021-02-17 15:34:45 DEBUG CallMetaDataContext:537 - Matching [no, sal] with [no, sal]
+  2021-02-17 15:34:45 DEBUG CallMetaDataContext:538 - Found match for [no, sal]
+  2021-02-17 15:34:45 DEBUG SimpleJdbcCall:404 - The following parameters are used for call {? = call updateemp(?, ?)} with {no=101, sal=0.0}
+  2021-02-17 15:34:45 DEBUG SimpleJdbcCall:407 - 1: returnvalue, SQL type -7, type name null, parameter class [org.springframework.jdbc.core.SqlOutParameter]
+  2021-02-17 15:34:45 DEBUG SimpleJdbcCall:407 - 2: sal, SQL type 4, type name null, parameter class [org.springframework.jdbc.core.SqlParameter]
+  2021-02-17 15:34:45 DEBUG SimpleJdbcCall:407 - 3: no, SQL type 4, type name null, parameter class [org.springframework.jdbc.core.SqlParameter]
+  2021-02-17 15:34:45 DEBUG JdbcTemplate:1182 - Calling stored procedure [{? = call updateemp(?, ?)}]
+  2021-02-17 15:34:45 DEBUG DataSourceUtils:115 - Fetching JDBC Connection from DataSource
+  2021-02-17 15:34:45 DEBUG DriverManagerDataSource:144 - Creating new JDBC DriverManager Connection to [jdbc:postgresql://localhost:5432/postgres]
+  2021-02-17 15:35:10 DEBUG ClassPathXmlApplicationContext:634 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@497470ed
+  2021-02-17 15:35:11 DEBUG XmlBeanDefinitionReader:393 - Loaded 4 bean definitions from class path resource [jdbc.xml]
+  2021-02-17 15:35:11 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'org.springframework.context.support.PropertySourcesPlaceholderConfigurer#0'
+  2021-02-17 15:35:11 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.driverClassName' in PropertySource 'localProperties' with value of type String
+  2021-02-17 15:35:11 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.url' in PropertySource 'localProperties' with value of type String
+  2021-02-17 15:35:11 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.username' in PropertySource 'localProperties' with value of type String
+  2021-02-17 15:35:11 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.password' in PropertySource 'localProperties' with value of type String
+  2021-02-17 15:35:11 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'dataSource'
+  2021-02-17 15:35:11 DEBUG DriverManagerDataSource:134 - Loaded JDBC driver: org.postgresql.Driver
+  2021-02-17 15:35:11 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'jdbcTemplate'
+  2021-02-17 15:35:11 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'employeeDAO'
+  2021-02-17 15:35:11 DEBUG JdbcTemplate:958 - Executing prepared SQL update
+  2021-02-17 15:35:11 DEBUG JdbcTemplate:643 - Executing prepared SQL statement [insert into employees values(?,?,?,?)]
+  2021-02-17 15:35:11 DEBUG DataSourceUtils:115 - Fetching JDBC Connection from DataSource
+  2021-02-17 15:35:11 DEBUG DriverManagerDataSource:144 - Creating new JDBC DriverManager Connection to [jdbc:postgresql://localhost:5432/postgres]
+  2021-02-17 15:35:12 DEBUG SimpleJdbcCall:259 - Added declared parameter for [updateemp]: sal
+  2021-02-17 15:35:12 DEBUG SimpleJdbcCall:259 - Added declared parameter for [updateemp]: empno
+  2021-02-17 15:35:12 DEBUG SimpleJdbcCall:354 - JdbcCall call not compiled before execution - invoking compile
+  2021-02-17 15:35:12 DEBUG DataSourceUtils:115 - Fetching JDBC Connection from DataSource
+  2021-02-17 15:35:12 DEBUG DriverManagerDataSource:144 - Creating new JDBC DriverManager Connection to [jdbc:postgresql://localhost:5432/postgres]
+  2021-02-17 15:35:12 DEBUG CallMetaDataProviderFactory:133 - Using org.springframework.jdbc.core.metadata.PostgresCallMetaDataProvider
+  2021-02-17 15:35:12 DEBUG CallMetaDataProvider:328 - Retrieving meta-data for null/public/updateemp
+  2021-02-17 15:35:12 DEBUG CallMetaDataProvider:384 - Retrieving column meta-data for procedure null/public/updateemp
+  2021-02-17 15:35:12 DEBUG CallMetaDataProvider:407 - Retrieved meta-data: returnValue 5 -7 bool false
+  2021-02-17 15:35:12 DEBUG CallMetaDataProvider:407 - Retrieved meta-data: sal 1 2 numeric false
+  2021-02-17 15:35:12 DEBUG CallMetaDataProvider:407 - Retrieved meta-data: no 1 4 int4 false
+  2021-02-17 15:35:12 DEBUG CallMetaDataContext:429 - Added meta-data return parameter for 'returnvalue'
+  2021-02-17 15:35:12 DEBUG CallMetaDataContext:406 - Using declared parameter for 'sal'
+  2021-02-17 15:35:12 DEBUG CallMetaDataContext:457 - Added meta-data in parameter for 'no'
+  2021-02-17 15:35:12 DEBUG SimpleJdbcCall:323 - Compiled stored procedure. Call string is [{? = call updateemp(?, ?)}]
+  2021-02-17 15:35:12 DEBUG SimpleJdbcCall:301 - SqlCall for function [updateemp] compiled
+  2021-02-17 15:35:12 DEBUG CallMetaDataContext:537 - Matching [no, sal] with [no, sal]
+  2021-02-17 15:35:12 DEBUG CallMetaDataContext:538 - Found match for [no, sal]
+  2021-02-17 15:35:12 DEBUG SimpleJdbcCall:404 - The following parameters are used for call {? = call updateemp(?, ?)} with {no=101, sal=0.0}
+  2021-02-17 15:35:12 DEBUG SimpleJdbcCall:407 - 1: returnvalue, SQL type -7, type name null, parameter class [org.springframework.jdbc.core.SqlOutParameter]
+  2021-02-17 15:35:12 DEBUG SimpleJdbcCall:407 - 2: sal, SQL type 4, type name null, parameter class [org.springframework.jdbc.core.SqlParameter]
+  2021-02-17 15:35:12 DEBUG SimpleJdbcCall:407 - 3: no, SQL type 4, type name null, parameter class [org.springframework.jdbc.core.SqlParameter]
+  2021-02-17 15:35:12 DEBUG JdbcTemplate:1182 - Calling stored procedure [{? = call updateemp(?, ?)}]
+  2021-02-17 15:35:12 DEBUG DataSourceUtils:115 - Fetching JDBC Connection from DataSource
+  2021-02-17 15:35:12 DEBUG DriverManagerDataSource:144 - Creating new JDBC DriverManager Connection to [jdbc:postgresql://localhost:5432/postgres]
+  2021-02-17 16:05:01 DEBUG ClassPathXmlApplicationContext:634 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@6477463f
+  2021-02-17 16:05:02 DEBUG XmlBeanDefinitionReader:393 - Loaded 4 bean definitions from class path resource [jdbc.xml]
+  2021-02-17 16:05:02 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'org.springframework.context.support.PropertySourcesPlaceholderConfigurer#0'
+  2021-02-17 16:05:02 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.driverClassName' in PropertySource 'localProperties' with value of type String
+  2021-02-17 16:05:02 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.url' in PropertySource 'localProperties' with value of type String
+  2021-02-17 16:05:02 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.username' in PropertySource 'localProperties' with value of type String
+  2021-02-17 16:05:02 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.password' in PropertySource 'localProperties' with value of type String
+  2021-02-17 16:05:02 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'dataSource'
+  2021-02-17 16:05:02 DEBUG DriverManagerDataSource:134 - Loaded JDBC driver: org.postgresql.Driver
+  2021-02-17 16:05:02 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'jdbcTemplate'
+  2021-02-17 16:05:03 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'employeeDAO'
+  2021-02-17 16:05:03 DEBUG JdbcTemplate:958 - Executing prepared SQL update
+  2021-02-17 16:05:03 DEBUG JdbcTemplate:643 - Executing prepared SQL statement [insert into employees values(?,?,?,?)]
+  2021-02-17 16:05:03 DEBUG DataSourceUtils:115 - Fetching JDBC Connection from DataSource
+  2021-02-17 16:05:03 DEBUG DriverManagerDataSource:144 - Creating new JDBC DriverManager Connection to [jdbc:postgresql://localhost:5432/postgres]
+  2021-02-17 16:05:03 DEBUG JdbcTemplate:711 - Executing prepared SQL query
+  2021-02-17 16:05:03 DEBUG JdbcTemplate:643 - Executing prepared SQL statement [select empno, ename, job, salary from employees where empno = ?]
+  2021-02-17 16:05:03 DEBUG DataSourceUtils:115 - Fetching JDBC Connection from DataSource
+  2021-02-17 16:05:03 DEBUG DriverManagerDataSource:144 - Creating new JDBC DriverManager Connection to [jdbc:postgresql://localhost:5432/postgres]
+  2021-02-17 16:05:03 DEBUG SimpleJdbcCall:259 - Added declared parameter for [updateemp]: sal
+  2021-02-17 16:05:03 DEBUG SimpleJdbcCall:259 - Added declared parameter for [updateemp]: empno
+  2021-02-17 16:05:03 DEBUG SimpleJdbcCall:354 - JdbcCall call not compiled before execution - invoking compile
+  2021-02-17 16:05:03 DEBUG DataSourceUtils:115 - Fetching JDBC Connection from DataSource
+  2021-02-17 16:05:03 DEBUG DriverManagerDataSource:144 - Creating new JDBC DriverManager Connection to [jdbc:postgresql://localhost:5432/postgres]
+  2021-02-17 16:05:03 DEBUG CallMetaDataProviderFactory:133 - Using org.springframework.jdbc.core.metadata.PostgresCallMetaDataProvider
+  2021-02-17 16:05:03 DEBUG CallMetaDataProvider:328 - Retrieving meta-data for null/public/updateemp
+  2021-02-17 16:05:03 DEBUG CallMetaDataProvider:384 - Retrieving column meta-data for procedure null/public/updateemp
+  2021-02-17 16:05:03 DEBUG CallMetaDataProvider:407 - Retrieved meta-data: returnValue 5 -7 bool false
+  2021-02-17 16:05:03 DEBUG CallMetaDataProvider:407 - Retrieved meta-data: sal 1 2 numeric false
+  2021-02-17 16:05:03 DEBUG CallMetaDataProvider:407 - Retrieved meta-data: no 1 4 int4 false
+  2021-02-17 16:05:03 DEBUG CallMetaDataContext:429 - Added meta-data return parameter for 'returnvalue'
+  2021-02-17 16:05:03 DEBUG CallMetaDataContext:406 - Using declared parameter for 'sal'
+  2021-02-17 16:05:03 DEBUG CallMetaDataContext:457 - Added meta-data in parameter for 'no'
+  2021-02-17 16:05:03 DEBUG SimpleJdbcCall:323 - Compiled stored procedure. Call string is [{? = call updateemp(?, ?)}]
+  2021-02-17 16:05:03 DEBUG SimpleJdbcCall:301 - SqlCall for function [updateemp] compiled
+  2021-02-17 16:05:03 DEBUG CallMetaDataContext:537 - Matching [no, sal] with [no, sal]
+  2021-02-17 16:05:03 DEBUG CallMetaDataContext:538 - Found match for [no, sal]
+  2021-02-17 16:05:03 DEBUG SimpleJdbcCall:404 - The following parameters are used for call {? = call updateemp(?, ?)} with {no=101, sal=0.0}
+  2021-02-17 16:05:03 DEBUG SimpleJdbcCall:407 - 1: returnvalue, SQL type -7, type name null, parameter class [org.springframework.jdbc.core.SqlOutParameter]
+  2021-02-17 16:05:03 DEBUG SimpleJdbcCall:407 - 2: sal, SQL type 4, type name null, parameter class [org.springframework.jdbc.core.SqlParameter]
+  2021-02-17 16:05:03 DEBUG SimpleJdbcCall:407 - 3: no, SQL type 4, type name null, parameter class [org.springframework.jdbc.core.SqlParameter]
+  2021-02-17 16:05:03 DEBUG JdbcTemplate:1182 - Calling stored procedure [{? = call updateemp(?, ?)}]
+  2021-02-17 16:05:03 DEBUG DataSourceUtils:115 - Fetching JDBC Connection from DataSource
+  2021-02-17 16:05:03 DEBUG DriverManagerDataSource:144 - Creating new JDBC DriverManager Connection to [jdbc:postgresql://localhost:5432/postgres]
+  2021-02-17 16:05:03 DEBUG JdbcTemplate:440 - Executing SQL query [select empno,ename,job,salary from employees]
+  2021-02-17 16:05:03 DEBUG DataSourceUtils:115 - Fetching JDBC Connection from DataSource
+  2021-02-17 16:05:03 DEBUG DriverManagerDataSource:144 - Creating new JDBC DriverManager Connection to [jdbc:postgresql://localhost:5432/postgres]
+  2021-02-17 16:05:03 DEBUG JdbcTemplate:958 - Executing prepared SQL update
+  2021-02-17 16:05:03 DEBUG JdbcTemplate:643 - Executing prepared SQL statement [delete from employees where empno=?]
+  2021-02-17 16:05:03 DEBUG DataSourceUtils:115 - Fetching JDBC Connection from DataSource
+  2021-02-17 16:05:03 DEBUG DriverManagerDataSource:144 - Creating new JDBC DriverManager Connection to [jdbc:postgresql://localhost:5432/postgres]
+  2021-02-17 16:06:30 DEBUG ClassPathXmlApplicationContext:634 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@6477463f
+  2021-02-17 16:06:31 DEBUG XmlBeanDefinitionReader:393 - Loaded 4 bean definitions from class path resource [jdbc.xml]
+  2021-02-17 16:06:31 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'org.springframework.context.support.PropertySourcesPlaceholderConfigurer#0'
+  2021-02-17 16:06:31 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.driverClassName' in PropertySource 'localProperties' with value of type String
+  2021-02-17 16:06:31 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.url' in PropertySource 'localProperties' with value of type String
+  2021-02-17 16:06:31 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.username' in PropertySource 'localProperties' with value of type String
+  2021-02-17 16:06:31 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.password' in PropertySource 'localProperties' with value of type String
+  2021-02-17 16:06:31 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'dataSource'
+  2021-02-17 16:06:31 DEBUG DriverManagerDataSource:134 - Loaded JDBC driver: org.postgresql.Driver
+  2021-02-17 16:06:31 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'jdbcTemplate'
+  2021-02-17 16:06:31 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'employeeDAO'
+  2021-02-17 16:06:31 DEBUG JdbcTemplate:958 - Executing prepared SQL update
+  2021-02-17 16:06:31 DEBUG JdbcTemplate:643 - Executing prepared SQL statement [insert into employees values(?,?,?,?)]
+  2021-02-17 16:06:31 DEBUG DataSourceUtils:115 - Fetching JDBC Connection from DataSource
+  2021-02-17 16:06:31 DEBUG DriverManagerDataSource:144 - Creating new JDBC DriverManager Connection to [jdbc:postgresql://localhost:5432/postgres]
+  2021-02-17 16:06:32 DEBUG JdbcTemplate:958 - Executing prepared SQL update
+  2021-02-17 16:06:32 DEBUG JdbcTemplate:643 - Executing prepared SQL statement [insert into employees values(?,?,?,?)]
+  2021-02-17 16:06:32 DEBUG DataSourceUtils:115 - Fetching JDBC Connection from DataSource
+  2021-02-17 16:06:32 DEBUG DriverManagerDataSource:144 - Creating new JDBC DriverManager Connection to [jdbc:postgresql://localhost:5432/postgres]
+  2021-02-17 16:06:32 DEBUG JdbcTemplate:711 - Executing prepared SQL query
+  2021-02-17 16:06:32 DEBUG JdbcTemplate:643 - Executing prepared SQL statement [select empno, ename, job, salary from employees where empno = ?]
+  2021-02-17 16:06:32 DEBUG DataSourceUtils:115 - Fetching JDBC Connection from DataSource
+  2021-02-17 16:06:32 DEBUG DriverManagerDataSource:144 - Creating new JDBC DriverManager Connection to [jdbc:postgresql://localhost:5432/postgres]
+  2021-02-17 16:06:32 DEBUG SimpleJdbcCall:259 - Added declared parameter for [updateemp]: sal
+  2021-02-17 16:06:32 DEBUG SimpleJdbcCall:259 - Added declared parameter for [updateemp]: empno
+  2021-02-17 16:06:32 DEBUG SimpleJdbcCall:354 - JdbcCall call not compiled before execution - invoking compile
+  2021-02-17 16:06:32 DEBUG DataSourceUtils:115 - Fetching JDBC Connection from DataSource
+  2021-02-17 16:06:32 DEBUG DriverManagerDataSource:144 - Creating new JDBC DriverManager Connection to [jdbc:postgresql://localhost:5432/postgres]
+  2021-02-17 16:06:32 DEBUG CallMetaDataProviderFactory:133 - Using org.springframework.jdbc.core.metadata.PostgresCallMetaDataProvider
+  2021-02-17 16:06:32 DEBUG CallMetaDataProvider:328 - Retrieving meta-data for null/public/updateemp
+  2021-02-17 16:06:32 DEBUG CallMetaDataProvider:384 - Retrieving column meta-data for procedure null/public/updateemp
+  2021-02-17 16:06:32 DEBUG CallMetaDataProvider:407 - Retrieved meta-data: returnValue 5 -7 bool false
+  2021-02-17 16:06:32 DEBUG CallMetaDataProvider:407 - Retrieved meta-data: sal 1 2 numeric false
+  2021-02-17 16:06:32 DEBUG CallMetaDataProvider:407 - Retrieved meta-data: no 1 4 int4 false
+  2021-02-17 16:06:32 DEBUG CallMetaDataContext:429 - Added meta-data return parameter for 'returnvalue'
+  2021-02-17 16:06:32 DEBUG CallMetaDataContext:406 - Using declared parameter for 'sal'
+  2021-02-17 16:06:32 DEBUG CallMetaDataContext:457 - Added meta-data in parameter for 'no'
+  2021-02-17 16:06:32 DEBUG SimpleJdbcCall:323 - Compiled stored procedure. Call string is [{? = call updateemp(?, ?)}]
+  2021-02-17 16:06:32 DEBUG SimpleJdbcCall:301 - SqlCall for function [updateemp] compiled
+  2021-02-17 16:06:32 DEBUG CallMetaDataContext:537 - Matching [no, sal] with [no, sal]
+  2021-02-17 16:06:32 DEBUG CallMetaDataContext:538 - Found match for [no, sal]
+  2021-02-17 16:06:32 DEBUG SimpleJdbcCall:404 - The following parameters are used for call {? = call updateemp(?, ?)} with {no=101, sal=0.0}
+  2021-02-17 16:06:32 DEBUG SimpleJdbcCall:407 - 1: returnvalue, SQL type -7, type name null, parameter class [org.springframework.jdbc.core.SqlOutParameter]
+  2021-02-17 16:06:32 DEBUG SimpleJdbcCall:407 - 2: sal, SQL type 4, type name null, parameter class [org.springframework.jdbc.core.SqlParameter]
+  2021-02-17 16:06:32 DEBUG SimpleJdbcCall:407 - 3: no, SQL type 4, type name null, parameter class [org.springframework.jdbc.core.SqlParameter]
+  2021-02-17 16:06:32 DEBUG JdbcTemplate:1182 - Calling stored procedure [{? = call updateemp(?, ?)}]
+  2021-02-17 16:06:32 DEBUG DataSourceUtils:115 - Fetching JDBC Connection from DataSource
+  2021-02-17 16:06:32 DEBUG DriverManagerDataSource:144 - Creating new JDBC DriverManager Connection to [jdbc:postgresql://localhost:5432/postgres]
+  2021-02-17 16:06:32 DEBUG JdbcTemplate:440 - Executing SQL query [select empno,ename,job,salary from employees]
+  2021-02-17 16:06:32 DEBUG DataSourceUtils:115 - Fetching JDBC Connection from DataSource
+  2021-02-17 16:06:32 DEBUG DriverManagerDataSource:144 - Creating new JDBC DriverManager Connection to [jdbc:postgresql://localhost:5432/postgres]
+  2021-02-17 16:06:32 DEBUG JdbcTemplate:958 - Executing prepared SQL update
+  2021-02-17 16:06:32 DEBUG JdbcTemplate:643 - Executing prepared SQL statement [delete from employees where empno=?]
+  2021-02-17 16:06:32 DEBUG DataSourceUtils:115 - Fetching JDBC Connection from DataSource
+  2021-02-17 16:06:32 DEBUG DriverManagerDataSource:144 - Creating new JDBC DriverManager Connection to [jdbc:postgresql://localhost:5432/postgres]
+  2021-02-17 16:07:39 DEBUG ClassPathXmlApplicationContext:634 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@6477463f
+  2021-02-17 16:07:40 DEBUG XmlBeanDefinitionReader:393 - Loaded 4 bean definitions from class path resource [jdbc.xml]
+  2021-02-17 16:07:40 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'org.springframework.context.support.PropertySourcesPlaceholderConfigurer#0'
+  2021-02-17 16:07:41 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.driverClassName' in PropertySource 'localProperties' with value of type String
+  2021-02-17 16:07:41 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.url' in PropertySource 'localProperties' with value of type String
+  2021-02-17 16:07:41 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.username' in PropertySource 'localProperties' with value of type String
+  2021-02-17 16:07:41 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.password' in PropertySource 'localProperties' with value of type String
+  2021-02-17 16:07:41 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'dataSource'
+  2021-02-17 16:07:41 DEBUG DriverManagerDataSource:134 - Loaded JDBC driver: org.postgresql.Driver
+  2021-02-17 16:07:41 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'jdbcTemplate'
+  2021-02-17 16:07:41 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'employeeDAO'
+  2021-02-17 16:07:41 DEBUG JdbcTemplate:958 - Executing prepared SQL update
+  2021-02-17 16:07:41 DEBUG JdbcTemplate:643 - Executing prepared SQL statement [insert into employees values(?,?,?,?)]
+  2021-02-17 16:07:41 DEBUG DataSourceUtils:115 - Fetching JDBC Connection from DataSource
+  2021-02-17 16:07:41 DEBUG DriverManagerDataSource:144 - Creating new JDBC DriverManager Connection to [jdbc:postgresql://localhost:5432/postgres]
+  2021-02-17 16:07:41 DEBUG JdbcTemplate:958 - Executing prepared SQL update
+  2021-02-17 16:07:41 DEBUG JdbcTemplate:643 - Executing prepared SQL statement [insert into employees values(?,?,?,?)]
+  2021-02-17 16:07:41 DEBUG DataSourceUtils:115 - Fetching JDBC Connection from DataSource
+  2021-02-17 16:07:41 DEBUG DriverManagerDataSource:144 - Creating new JDBC DriverManager Connection to [jdbc:postgresql://localhost:5432/postgres]
+  2021-02-17 16:07:41 DEBUG JdbcTemplate:711 - Executing prepared SQL query
+  2021-02-17 16:07:41 DEBUG JdbcTemplate:643 - Executing prepared SQL statement [select empno, ename, job, salary from employees where empno = ?]
+  2021-02-17 16:07:41 DEBUG DataSourceUtils:115 - Fetching JDBC Connection from DataSource
+  2021-02-17 16:07:41 DEBUG DriverManagerDataSource:144 - Creating new JDBC DriverManager Connection to [jdbc:postgresql://localhost:5432/postgres]
+  2021-02-17 16:07:41 DEBUG SimpleJdbcCall:259 - Added declared parameter for [updateemp]: sal
+  2021-02-17 16:07:41 DEBUG SimpleJdbcCall:259 - Added declared parameter for [updateemp]: empno
+  2021-02-17 16:07:41 DEBUG SimpleJdbcCall:354 - JdbcCall call not compiled before execution - invoking compile
+  2021-02-17 16:07:41 DEBUG DataSourceUtils:115 - Fetching JDBC Connection from DataSource
+  2021-02-17 16:07:41 DEBUG DriverManagerDataSource:144 - Creating new JDBC DriverManager Connection to [jdbc:postgresql://localhost:5432/postgres]
+  2021-02-17 16:07:41 DEBUG CallMetaDataProviderFactory:133 - Using org.springframework.jdbc.core.metadata.PostgresCallMetaDataProvider
+  2021-02-17 16:07:41 DEBUG CallMetaDataProvider:328 - Retrieving meta-data for null/public/updateemp
+  2021-02-17 16:07:41 DEBUG CallMetaDataProvider:384 - Retrieving column meta-data for procedure null/public/updateemp
+  2021-02-17 16:07:41 DEBUG CallMetaDataProvider:407 - Retrieved meta-data: returnValue 5 -7 bool false
+  2021-02-17 16:07:41 DEBUG CallMetaDataProvider:407 - Retrieved meta-data: sal 1 2 numeric false
+  2021-02-17 16:07:41 DEBUG CallMetaDataProvider:407 - Retrieved meta-data: no 1 4 int4 false
+  2021-02-17 16:07:41 DEBUG CallMetaDataContext:429 - Added meta-data return parameter for 'returnvalue'
+  2021-02-17 16:07:41 DEBUG CallMetaDataContext:406 - Using declared parameter for 'sal'
+  2021-02-17 16:07:41 DEBUG CallMetaDataContext:457 - Added meta-data in parameter for 'no'
+  2021-02-17 16:07:41 DEBUG SimpleJdbcCall:323 - Compiled stored procedure. Call string is [{? = call updateemp(?, ?)}]
+  2021-02-17 16:07:41 DEBUG SimpleJdbcCall:301 - SqlCall for function [updateemp] compiled
+  2021-02-17 16:07:41 DEBUG CallMetaDataContext:537 - Matching [no, sal] with [no, sal]
+  2021-02-17 16:07:41 DEBUG CallMetaDataContext:538 - Found match for [no, sal]
+  2021-02-17 16:07:41 DEBUG SimpleJdbcCall:404 - The following parameters are used for call {? = call updateemp(?, ?)} with {no=101, sal=0.0}
+  2021-02-17 16:07:41 DEBUG SimpleJdbcCall:407 - 1: returnvalue, SQL type -7, type name null, parameter class [org.springframework.jdbc.core.SqlOutParameter]
+  2021-02-17 16:07:41 DEBUG SimpleJdbcCall:407 - 2: sal, SQL type 4, type name null, parameter class [org.springframework.jdbc.core.SqlParameter]
+  2021-02-17 16:07:41 DEBUG SimpleJdbcCall:407 - 3: no, SQL type 4, type name null, parameter class [org.springframework.jdbc.core.SqlParameter]
+  2021-02-17 16:07:41 DEBUG JdbcTemplate:1182 - Calling stored procedure [{? = call updateemp(?, ?)}]
+  2021-02-17 16:07:41 DEBUG DataSourceUtils:115 - Fetching JDBC Connection from DataSource
+  2021-02-17 16:07:41 DEBUG DriverManagerDataSource:144 - Creating new JDBC DriverManager Connection to [jdbc:postgresql://localhost:5432/postgres]
+  2021-02-17 16:07:42 DEBUG JdbcTemplate:440 - Executing SQL query [select empno,ename,job,salary from employees]
+  2021-02-17 16:07:42 DEBUG DataSourceUtils:115 - Fetching JDBC Connection from DataSource
+  2021-02-17 16:07:42 DEBUG DriverManagerDataSource:144 - Creating new JDBC DriverManager Connection to [jdbc:postgresql://localhost:5432/postgres]
+  2021-02-17 16:07:42 DEBUG JdbcTemplate:958 - Executing prepared SQL update
+  2021-02-17 16:07:42 DEBUG JdbcTemplate:643 - Executing prepared SQL statement [delete from employees where empno=?]
+  2021-02-17 16:07:42 DEBUG DataSourceUtils:115 - Fetching JDBC Connection from DataSource
+  2021-02-17 16:07:42 DEBUG DriverManagerDataSource:144 - Creating new JDBC DriverManager Connection to [jdbc:postgresql://localhost:5432/postgres]
+  2021-02-17 16:27:54 DEBUG ClassPathXmlApplicationContext:634 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@497470ed
+  2021-02-17 16:27:55 DEBUG XmlBeanDefinitionReader:393 - Loaded 4 bean definitions from class path resource [jdbc.xml]
+  2021-02-17 16:27:55 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'org.springframework.context.support.PropertySourcesPlaceholderConfigurer#0'
+  2021-02-17 16:27:55 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.driverClassName' in PropertySource 'localProperties' with value of type String
+  2021-02-17 16:27:55 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.url' in PropertySource 'localProperties' with value of type String
+  2021-02-17 16:27:55 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.username' in PropertySource 'localProperties' with value of type String
+  2021-02-17 16:27:55 DEBUG PropertySourcesPropertyResolver:115 - Found key 'jdbc.password' in PropertySource 'localProperties' with value of type String
+  2021-02-17 16:27:55 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'dataSource'
+  2021-02-17 16:27:55 DEBUG DriverManagerDataSource:134 - Loaded JDBC driver: org.postgresql.Driver
+  2021-02-17 16:27:55 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'jdbcTemplate'
+  2021-02-17 16:27:56 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'employeeDAO'
+  2021-02-17 16:27:56 DEBUG JdbcTemplate:440 - Executing SQL query [select empno,ename,job,salary from employees]
+  2021-02-17 16:27:56 DEBUG DataSourceUtils:115 - Fetching JDBC Connection from DataSource
+  2021-02-17 16:27:56 DEBUG DriverManagerDataSource:144 - Creating new JDBC DriverManager Connection to [jdbc:postgresql://localhost:5432/postgres]
+  2021-03-61 11:48:31 DEBUG ClassPathXmlApplicationContext:634 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@497470ed
+  2021-03-61 11:48:33 DEBUG XmlBeanDefinitionReader:393 - Loaded 3 bean definitions from class path resource [ApplicationContext.xml]
+  2021-03-61 11:48:33 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'customer'
+  2021-03-61 11:48:34 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'customer1'
+  2021-03-61 12:43:49 DEBUG ClassPathXmlApplicationContext:634 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5ab9e72c
+  2021-03-61 12:43:50 DEBUG XmlBeanDefinitionReader:393 - Loaded 3 bean definitions from class path resource [ApplicationContext.xml]
+  2021-03-61 12:43:50 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'customer'
+  2021-03-61 12:43:51 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'customer1'
+  
